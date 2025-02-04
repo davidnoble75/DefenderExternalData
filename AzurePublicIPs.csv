@@ -1,0 +1,448 @@
+Name,Application,Owner,RemoteIP,Location,CostCenter,JobNumber,ResourceGroup
+16f3697a-be06-4614-8c6e-215144d07c71-azurebatch-cloudservicepublicip,,scott.evans@arup.com,4.158.73.210,uksouth,01-89904,077017-65,arup-networking-production-open-rg
+595cd99e-d085-43ff-9f30-68259f544a03,,george.aggrey@arup.com,4.159.114.138,uksouth,01-648,077060-96,mc_arup-compute-dev-rg_ac-dev-kubernetes_uksouth
+65798a17-a778-4a80-952a-8688df65e2fe,Azure Devops Deployment Agents and associated infrastructure,stuart.pittwood@arup.com,51.11.28.183,uksouth,01-89904,077017-65,mc_arup-deployment-agents-prod-rg_deployment-agents_uksouth
+9cacdd19-9bc3-4091-a8f8-a170dcd6eb30-azurebatch-cloudservicepublicip,,scott.evans@arup.com,20.162.197.251,uksouth,01-89904,077017-65,arup-networking-uat-rg
+ac-devb-01-vm-ip,,george.aggrey@arup.com,172.167.130.2,uksouth,01-89910,077060-96,arup-compute-dev-rg
+ado-agent-ip,,,20.77.172.205,uksouth,,,arup-images-core-rg
+ado-agentsLBPublicIP,,stuart.pittwood@arup.com,20.90.156.125,uksouth,01-89904,077017-65,arup-devops-agents-vmss-rg
+ado-agentsLBPublicIP-basic,,stuart.pittwood@arup.com,51.104.212.1,uksouth,01-89904,077017-65,arup-devops-agents-vmss-rg
+adp-integration-api-management-dev-pub-ip-uks,,naeem.javaid@arup.com,172.166.182.128,uksouth,01-89919,077024-66,arup-adp-apim-non-prod-uks-dev-rg
+adp-integration-api-management-prod-pub-ip-uks,,naeem.javaid@arup.com,172.166.164.125,uksouth,01-89919,077024-66,arup-adp-apim-prod-uks-prod-rg
+Ad-SelfService-IP,ADSelfService,doran.dorotheou@arup.com,20.40.161.5,australiasoutheast,01-89919,077013-65,arup-adselfservice-prod-rg
+alete-mm-northeurope,,,20.54.25.120,northeurope,,,alete-northeurope-unreal-rg
+amrsccmcmg01,,richard.barnes@arup.com,52.159.95.207,northcentralus,5006-352,077050-35,amrsccmcmg01
+anyconnect-01-publicIpAddress,,michal.plater@arup.com,20.87.219.122,southafricanorth,01-737,077031-13,arup-southafricanorth-anyconnect-prod-rg
+anyconnect-01-publicIpAddress2,,michal.plater@arup.com,20.87.222.226,southafricanorth,01-737,077031-13,arup-southafricanorth-anyconnect-prod-rg
+apm-dev-appgw-fe-pip,Atlas Management Services,andrew.egleton@arup.com,172.166.233.157,uksouth,01-89915,077057-31,arup-apm-dev-rg
+apm-prod-appgw-fe-pip,Atlas Management Services,andrew.egleton@arup.com,51.140.85.53,uksouth,01-89915,077057-31,arup-apm-prod-rg
+appgateway-dev-eastasia-public-ip,appgateway,scott.evans@arup.com,52.139.156.138,eastasia,01-89904,077017-65,arup-appgateway-dev-rg
+appgateway-dev-public-ip,appgateway,scott.evans@arup.com,52.155.162.57,northeurope,01-89904,077017-65,arup-appgateway-dev-rg
+appgateway-prod-eastasia-public-ip,appgateway,scott.evans@arup.com,20.189.74.160,eastasia,01-89904,077017-65,arup-appgateway-prod-rg
+appgateway-prod-public-ip,appgateway,scott.evans@arup.com,52.142.126.126,northeurope,01-89904,077017-65,arup-appgateway-prod-rg
+appgateway-uat-eastasia-public-ip,appgateway,scott.evans@arup.com,20.189.79.88,eastasia,01-89904,077017-65,arup-appgateway-uat-rg
+appgateway-uat-public-ip,appgateway,scott.evans@arup.com,52.155.233.24,northeurope,01-89904,077017-65,arup-appgateway-uat-rg
+appserver-outbound-lb-ip,Blue Prism,James.Dhanjal@arup.com,168.63.61.36,northeurope,01-74201,077239-00,arup-blue-prism-prod-rg
+appserver-outbound-lb-ip,Blue Prism,James.Dhanjal@arup.com,68.219.202.175,northeurope,01-74201,077239-00,arup-blue-prism-uat-rg
+appserver-outbound-lb-ip,Blue Prism,James.Dhanjal@arup.com,74.234.90.169,northeurope,01-74201,077239-00,arup-blue-prism-dev-rg
+appstoreprod-pip,appstore,mark.burford@arup.com,20.108.157.48,uksouth,01-89904,077017-65,arup-app-store-prod-rg
+arup-aue-bastion-pip,,scott.evans@arup.com,20.5.110.193,australiaeast,5005-351,077031-16,arup-aue-bastion-rg
+arup-aue-er-gw-ip,,scott.evans@arup.com,20.213.157.240,australiaeast,5005-351,077031-16,arup-aue-hub-networking-rg
+arup-aue-fw-pip,,scott.evans@arup.com,20.40.177.86,australiaeast,5005-351,077031-16,arup-aue-hub-networking-rg
+arup-aue-fw-prefix-pip,,scott.evans@arup.com,4.147.67.160,australiaeast,5005-351,077031-16,arup-aue-hub-networking-rg
+arup-ause-bastion-pip,,scott.evans@arup.com,20.40.173.206,australiasoutheast,5005-351,077031-16,arup-ause-bastion-rg
+arup-ause-er-gw-ip,,scott.evans@arup.com,20.11.186.199,australiasoutheast,5005-351,077031-16,arup-ause-hub-networking-rg
+arup-ause-fw-pip,,scott.evans@arup.com,52.243.92.174,australiasoutheast,5005-351,077031-16,arup-ause-hub-networking-rg
+arup-ause-fw-prefix-pip,,scott.evans@arup.com,4.198.112.64,australiasoutheast,5005-351,077031-16,arup-ause-hub-networking-rg
+arupausseasa01-ip,Temp. ASA for Australia BCP,michal.plater@arup.com,20.11.136.124,australiasoutheast,01-89904,077031-16,arup-temp-asa-aus-rg
+arup-australiaeast-natgw-ip,,scott.evans@arup.com,23.101.216.96,australiaeast,01-89904,077017-65,arup-networking-core-rg
+arup-australiasoutheast-natgw-ip,Core Infrastructure,scott.evans@arup.com,20.40.171.23,australiasoutheast,01-89904,077017-65,arup-networking-core-rg
+arup-australiasoutheast-production-spoke-vnet-ip,Core Infrastructure,scott.evans@arup.com,20.40.167.9,australiasoutheast,01-89904,077017-65,arup-management-core-rg
+arup-cac-bastion-pip,,scott.evans@arup.com,20.104.228.39,canadacentral,01-89904,077017-65,arup-cac-bastion-rg
+arup-cac-fw-pip,,scott.evans@arup.com,20.220.156.142,canadacentral,01-89904,077017-65,arup-cac-hub-networking-rg
+arup-cac-fw-prefix-pip,,scott.evans@arup.com,20.48.128.160,canadacentral,01-89904,077017-65,arup-cac-hub-networking-rg
+arup-cac-gw-ip,,scott.evans@arup.com,20.175.159.146,canadacentral,01-89904,077017-65,arup-cac-hub-networking-rg
+arup-cae-bastion-pip,,scott.evans@arup.com,20.200.53.240,canadaeast,01-89904,077017-65,arup-cae-bastion-rg
+arup-cae-fw-pip,,scott.evans@arup.com,20.104.170.42,canadaeast,01-89904,077017-65,arup-cae-hub-networking-rg
+arup-cae-fw-prefix-pip,,scott.evans@arup.com,20.220.120.144,canadaeast,01-89904,077017-65,arup-cae-hub-networking-rg
+arup-cae-gw-ip,,scott.evans@arup.com,20.220.82.42,canadaeast,01-89904,077017-65,arup-cae-hub-networking-rg
+arup-cin-vpn-gw-pip,,michal.plater@arup.com,20.235.95.181,centralindia,01-737,077031-13,arup-centralindia-anyconnect-prod-rg
+arup-cloud-ip,,ian.dellbridge@arup.com,172.187.171.112,uksouth,0189904,077017-65,arup-openai-dtg-test-rg
+arup-coreai-uks-dev-agw-01-pip,Bid Mgmt APPLICATION_TOKEN Fire safety - AI,ian.dellbridge@arup.com,51.142.110.135,uksouth,01-89904,077017-65,arup-core-ai-services-dev-rg
+arup-dia-testing-cac-ip,,,4.174.138.89,canadacentral,,,gtt-wan-testing-rg
+arup-dia-testing-cce-ip,,,4.248.15.32,canadaeast,,,gtt-wan-testing-rg
+arup-dia-testing-es-ip,,,68.221.123.46,spaincentral,,,gtt-wan-testing-rg
+arup-dia-testing-it-ip,,,4.232.141.199,italynorth,,,gtt-wan-testing-rg
+arup-dia-testing-ncus-ip,,,23.96.246.42,northcentralus,,,gtt-wan-testing-rg
+arup-dia-testing-neu-ip,,,20.82.186.33,northeurope,,,gtt-wan-testing-rg
+arup-dia-testing-pl-ip,,,20.215.233.41,polandcentral,,,gtt-wan-testing-rg
+arup-dia-testing-uks-ip,,,20.68.193.216,uksouth,,,gtt-wan-testing-rg
+arup-dia-testing-ukw-ip,,,20.162.121.45,ukwest,,,gtt-wan-testing-rg
+arup-dia-testing-use-ip,,,52.224.241.54,eastus,,,gtt-wan-testing-rg
+arup-dia-testing-weu-ip,,,20.56.89.65,westeurope,,,gtt-wan-testing-rg
+arup-dia-testing-wus-ip,,,20.253.194.210,westus,,,gtt-wan-testing-rg
+arup-ea-bastion-pip,,scott.evans@arup.com,104.214.172.115,eastasia,01-89904,077017-65,arup-ea-bastion-rg
+arup-ea-fw-pip,,scott.evans@arup.com,23.102.233.138,eastasia,01-89904,077017-65,arup-ea-hub-networking-rg
+arup-ea-fw-prefix-pip,,scott.evans@arup.com,104.208.127.224,eastasia,01-89904,077017-65,arup-ea-hub-networking-rg
+arup-ea-gw-ip,,scott.evans@arup.com,13.94.61.141,eastasia,01-89904,077017-65,arup-ea-hub-networking-rg
+arup-eastasia-natgw-ip,Core Infrastructure,scott.evans@arup.com,52.229.242.8,eastasia,01-89904,077017-65,arup-networking-core-rg
+arup-eastasia-production-spoke-vnet-ip,,scott.evans@arup.com,20.239.130.98,eastasia,01-89904,077017-65,arup-networking-production-open-rg
+arup-eus-bastion-pip,,scott.evans@arup.com,20.127.124.140,eastus,5006-352,077050-35,arup-eus-bastion-rg
+arup-eus-fw-pip,,scott.evans@arup.com,52.146.64.101,eastus,5006-352,077050-35,arup-eus-hub-networking-rg
+arup-eus-fw-prefix-pip,,scott.evans@arup.com,52.249.236.80,eastus,5006-352,077050-35,arup-eus-hub-networking-rg
+arup-fuse-au-prod-pip,fuse,luke.cooper@arup.com,52.147.45.88,australiasoutheast,5015-008,088611-22,arup-fuse-au-prod-rg
+arup-fuse-ca-prod-pip,fuse,luke.cooper@arup.com,20.151.29.75,canadacentral,5015-008,088611-22,arup-fuse-ca-prod-rg
+arup-fuse-gb-prod-legacy-pip,fuse,luke.cooper@arup.com,51.11.172.174,uksouth,5015-008,088611-22,arup-fuse-gb-prod-rg
+arup-fuse-gb-prod-mig-pip,fuse,luke.cooper@arup.com,20.49.164.103,uksouth,5015-008,088611-22,arup-fuse-gb-prod-rg
+arup-fuse-gb-prod-pip,fuse,luke.cooper@arup.com,20.49.142.39,uksouth,5015-008,088611-22,arup-fuse-gb-prod-rg
+arup-fuse-ie-prod-pip,,luke.cooper@arup.com,20.54.94.204,northeurope,5015-008,088611-22,arup-fuse-ie-prod-rg
+arup-fuse-sg-prod-pip,fuse,luke.cooper@arup.com,20.197.99.138,southeastasia,5015-008,088611-22,arup-fuse-sg-prod-rg
+arup-fuse-us-prod-pip,FUSE - PENN,luke.cooper@arup.com,20.25.228.26,northcentralus,5015-008,088611-22,arup-fuse-us-prod-rg
+arup-fuse-us-prod-pip-02,FUSE - PENN,luke.cooper@arup.com,20.221.244.105,northcentralus,5015-008,088611-22,arup-fuse-us-prod-rg
+arupinspect-mvp-webappVnet-ip,,matthew.walden@arup.com,172.173.250.132,eastus,5015-009,088613-22,arup-ai3d-sandpit-rg
+arup-japaneast-natgw-ip,Core Infrastructure,scott.evans@arup.com,20.46.190.90,japaneast,01-89904,077017-65,arup-networking-core-rg
+arup-k2five-sandpit-pip,k2five,alvin.wiyanto@arup.com,20.40.170.156,australiasoutheast,01-89915,077060-71,arup-k2five-sandpit-rg
+arup-mbam-prod-pip,MBAM,matt.smith@arup.com,20.108.125.248,uksouth,01-89907,077130-10,arup-mbam-prod-rg
+arup-ncus-bastion-pip,Core Infrastructure,scott.evans@arup.com,52.240.168.152,northcentralus,01-89904,077017-65,arup-ncus-bastion-rg
+arup-ncus-fw-pip,,scott.evans@arup.com,52.162.206.152,northcentralus,01-89904,077017-65,arup-ncus-hub-networking-rg
+arup-ncus-fw-prefix-pip,,scott.evans@arup.com,40.116.72.0,northcentralus,01-89904,077017-65,arup-ncus-hub-networking-rg
+arup-ncus-gw-ip,,scott.evans@arup.com,20.221.197.218,northcentralus,01-89904,077017-65,arup-ncus-hub-networking-rg
+arup-necc-dbeaver-dev-vm-ip,,arman.ayrapetyan@arup.com,172.214.133.224,northcentralus,5006014,283897-56,arup-necc-sandpit-rg
+arupneuasa01-ip,ASA for North Europe (Temp),michal.plater@arup.com,52.138.179.161,northeurope,81-351,077031-14,arup-temp-asa-neu-rg
+arup-neu-bastion-pip,,scott.evans@arup.com,20.166.25.248,northeurope,01-89904,077017-65,arup-neu-bastion-rg
+arup-neu-fw-pip,,scott.evans@arup.com,40.127.147.82,northeurope,01-89904,077017-65,arup-neu-hub-networking-rg
+arup-neu-fw-prefix-pip,,scott.evans@arup.com,4.208.60.64,northeurope,01-89904,077017-65,arup-neu-hub-networking-rg
+arup-neu-gw-ip,,scott.evans@arup.com,20.93.109.124,northeurope,01-89904,077017-65,arup-neu-hub-networking-rg
+arup-northcentralus-natgw-ip,Core Infrastructure,scott.evans@arup.com,52.252.165.182,northcentralus,01-89904,077017-65,arup-networking-core-rg
+arup-northeurope-natgw-ip,Core Infrastructure,scott.evans@arup.com,51.104.157.208,northeurope,01-89904,077017-65,arup-networking-core-rg
+arup-plmtrac-dev-pip,plmtrac,lingyi.chen@arup.com,52.252.152.64,northcentralus,01-89904,077017-65,arup-plmtrac-dev-rg
+arup-plmtrac-prod-pip,plmtrac,lingyi.chen@arup.com,52.252.158.39,northcentralus,01-89904,077017-65,arup-plmtrac-prod-rg
+arup-plmtrac-uat-pip,plmtrac,lingyi.chen@arup.com,40.81.37.236,northcentralus,01-89904,077017-65,arup-plmtrac-uat-rg
+arup-san-bastion-pip,,scott.evans@arup.com,4.221.37.54,southafricanorth,01-89904,077017-65,arup-san-bastion-rg
+arup-san-fw-pip,,scott.evans@arup.com,20.87.97.47,southafricanorth,01-89904,077017-65,arup-san-hub-networking-rg
+arup-san-fw-prefix-pip,,scott.evans@arup.com,20.87.246.112,southafricanorth,01-89904,077017-65,arup-san-hub-networking-rg
+arup-san-gw-ip,,scott.evans@arup.com,20.87.206.148,southafricanorth,01-89904,077017-65,arup-san-hub-networking-rg
+arup-saw-bastion-pip,,scott.evans@arup.com,102.133.102.224,southafricawest,01-89904,077017-65,arup-saw-bastion-rg
+arup-saw-fw-pip,,scott.evans@arup.com,40.117.9.216,southafricawest,01-89904,077017-65,arup-saw-hub-networking-rg
+arup-saw-fw-prefix-pip,,scott.evans@arup.com,40.117.13.176,southafricawest,01-89904,077017-65,arup-saw-hub-networking-rg
+arup-saw-gw-ip,,scott.evans@arup.com,40.117.9.209,southafricawest,01-89904,077017-65,arup-saw-hub-networking-rg
+arup-scus-bastion-pip,,scott.evans@arup.com,20.225.81.41,southcentralus,5006-352,077050-35,arup-scus-bastion-rg
+arup-scus-fw-pip,,scott.evans@arup.com,20.225.0.8,southcentralus,5006-352,077050-35,arup-scus-hub-networking-rg
+arup-scus-fw-prefix-pip,,scott.evans@arup.com,20.114.91.208,southcentralus,5006-352,077050-35,arup-scus-hub-networking-rg
+arup-scus-gw-ip,,scott.evans@arup.com,20.225.113.42,southcentralus,5006-352,077050-35,arup-scus-hub-networking-rg
+arup-sea-bastion-pip,,scott.evans@arup.com,4.194.144.19,southeastasia,01-89904,077017-65,arup-sea-bastion-rg
+arup-sea-fw-pip,,scott.evans@arup.com,20.197.107.221,southeastasia,08-351,077031-15,arup-sea-hub-networking-rg
+arup-sea-fw-prefix-pip,,scott.evans@arup.com,20.197.84.64,southeastasia,08-351,077031-15,arup-sea-hub-networking-rg
+arup-sea-gw-ip,,scott.evans@arup.com,20.247.203.172,southeastasia,5006-352,077050-35,arup-sea-hub-networking-rg
+arup-southcentralus-isolated-vnet-ip,,adrian.giles@arup.com,20.97.25.200,southcentralus,01-89904,088349-93,arup-scus-zerto-prod-rg
+arup-southcentralus-natgw-ip,,scott.evans@arup.com,70.37.83.209,southcentralus,01-89904,077017-65,arup-networking-core-rg
+arup-southeastasia-natgw-ip,,scott.evans@arup.com,104.215.185.154,southeastasia,01-89904,077017-65,arup-networking-core-rg
+ArupSpeckleVM-ip,Speckle,Yamin.Tengono@arup.com,51.141.100.102,ukwest,01-89915,077061-26,arup-speckle-rg
+arup-test-vm-ip,,,20.90.88.56,uksouth,,,arup-test-vm_group
+arup-uks-bastion-pip,,scott.evans@arup.com,20.77.86.243,uksouth,01-89904,077017-65,arup-uks-bastion-rg
+arup-uks-fw-pip,,scott.evans@arup.com,51.11.27.81,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+arup-uks-fw-prefix-pip,,scott.evans@arup.com,20.254.72.96,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+arup-uks-gw2-pip,,scott.evans@arup.com,20.117.223.75,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+arup-uks-gw-ip,,scott.evans@arup.com,51.11.24.109,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+arup-uks-infor-uat-pip,Core Infrastructure,scott.evans@arup.com,20.26.40.173,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+arup-uksouth-natgw-ip,Core Infrastructure,scott.evans@arup.com,51.11.172.230,uksouth,01-89904,077017-65,arup-networking-core-rg
+arup-ukw-bastion-pip,,scott.evans@arup.com,51.137.176.54,ukwest,01-89904,077017-65,arup-ukw-bastion-rg
+arup-ukwest-natgw-ip,,scott.evans@arup.com,51.104.45.124,ukwest,01-89904,077017-65,arup-networking-core-rg
+arup-ukw-fw-pip,,scott.evans@arup.com,52.142.185.109,ukwest,01-89904,077017-65,arup-ukw-hub-networking-rg
+arup-ukw-fw-prefix-pip,,scott.evans@arup.com,20.254.205.32,ukwest,01-89904,077017-65,arup-ukw-hub-networking-rg
+arup-ukw-gw-ip,,scott.evans@arup.com,51.142.157.227,ukwest,01-89904,077017-65,arup-ukw-hub-networking-rg
+arup-westeurope-natgw-ip,,scott.evans@arup.com,20.71.38.133,westeurope,01-89904,077017-65,arup-networking-core-rg
+arup-weu-bastion-pip,,scott.evans@arup.com,108.143.42.242,westeurope,01-89904,077017-65,arup-weu-bastion-rg
+arup-weu-er-gw-pip,,scott.evans@arup.com,20.4.95.172,westeurope,01-89904,077017-65,arup-weu-hub-networking-rg
+arup-weu-fw-pip,,scott.evans@arup.com,20.82.52.157,westeurope,01-89904,077017-65,arup-weu-hub-networking-rg
+arup-weu-fw-prefix-pip,,scott.evans@arup.com,98.64.42.64,westeurope,01-89904,077017-65,arup-weu-hub-networking-rg
+arup-weu-gw-ip,,scott.evans@arup.com,20.103.100.134,westeurope,01-89904,077017-65,arup-weu-hub-networking-rg
+arup-wus-bastion-pip,,scott.evans@arup.com,20.237.254.46,westus,01-89904,077017-65,arup-wus-bastion-rg
+arup-wus-fw-pip,,scott.evans@arup.com,104.45.212.253,westus,5006-352,077050-35,arup-wus-hub-networking-rg
+arup-wus-fw-prefix-pip,,scott.evans@arup.com,13.88.1.160,westus,5006-352,077050-35,arup-wus-hub-networking-rg
+auprodweb04-ip,auprodweb04,scott.fagg@arup.com,20.213.119.224,australiaeast,5005-351,077031-16,arup-web-ase-prod-rg
+ausazsinany02-ip,,piotr.gorka@arup.com,13.76.193.10,southeastasia,01-89904,077017-65,arup-resilience-anyconnect-prod-rg
+ausdevopsagt01-public-ip,Azure Devops Agent,michael.fleming@arup.com,23.101.225.141,australiasoutheast,01-89904,077017-65,arup-aus-devops-agt-test-rg
+auseiccedge01-pip,,Jeffrey.Zhang@arup.com,20.211.85.145,australiaeast,5005-351,077031-16,arup-eicc-au-prod-rg
+auseiccedge02-pip,,Jeffrey.Zhang@arup.com,20.190.103.49,australiasoutheast,5005-351,077031-16,arup-eicc-au-prod-rg
+aussbcaz01-pip,,Jeffrey.Zhang@arup.com,4.198.73.223,australiasoutheast,01-89904,088349-90,arup-sbc-au-prod-rg
+aussccmcmg01,,richard.barnes@arup.com,20.213.250.57,australiacentral,5005-351,077031-16,aussccmcmg01
+automation-ip,,,51.140.85.56,uksouth,,,defaultresourcegroup-suk
+az-af-san-csr-vm-01-pip,,jon.banks@arup.com,102.37.22.191,southafricanorth,01-89904,077017-65,arup-az-af-san-csr-rg
+az-af-san-csr-vm-02-pip,,jon.banks@arup.com,102.37.149.244,southafricanorth,01-89904,077017-65,arup-az-af-san-csr-rg
+az-af-saw-csr-vm-01-pip,,jon.banks@arup.com,40.117.9.244,southafricawest,01-89904,077017-65,arup-az-af-saw-csr-rg
+az-af-saw-csr-vm-02-pip,,jon.banks@arup.com,40.117.9.217,southafricawest,01-89904,077017-65,arup-az-af-saw-csr-rg
+azamrpwgwyp101-pip,Projectwise Servers,gary.turner@arup.com,20.88.25.17,northcentralus,01-89915,077132-13,arup-projectwise-prod-rg
+azasaauepvm01-ip,Cisco Adaptive Security Virtual Appliance,jon.banks@arup.com,20.213.145.187,australiaeast,01-89904,077017-65,arup-asa-aue-prod-rg
+azasajpepvm01-ip,Cisco Adaptive Security Virtual Appliance,michal.plater@arup.com,4.216.171.96,japaneast,08-351,077031-15,arup-asa-jpe-prod-rg
+azasaukspvm01-ip,Cisco Adaptive Security Virtual Appliance,jon.banks@arup.com,20.117.145.234,uksouth,01-89904,077017-65,arup-asa-uks-prod-rg
+az-aue-cc01-mgmt-pip,,jon.banks@arup.com,20.92.249.81,australiaeast,5005-351,077031-16,arup-aue-edge-connect-rg
+az-aue-cc01-pip,,jon.banks@arup.com,20.92.251.229,australiaeast,5005-351,077031-16,arup-aue-edge-connect-rg
+az-aue-cc02-mgmt-pip,,jon.banks@arup.com,20.11.21.87,australiaeast,5005-351,077031-16,arup-aue-edge-connect-rg
+az-aue-cc02-pip,,jon.banks@arup.com,20.11.19.190,australiaeast,5005-351,077031-16,arup-aue-edge-connect-rg
+az-aue-rs01-pip,,scott.evans@arup.com,52.156.167.207,australiaeast,5005-351,077031-16,arup-aue-hub-networking-rg
+azauseasavm01-pip,Cisco Anyconnect - Australia South East,michal.plater@arup.com,20.70.124.155,australiasoutheast,5005-351,077031-16,arup-australiasoutheast-anyconnect-prod-rg
+az-ause-cc01-mgmt-pip,,jon.banks@arup.com,20.190.125.233,australiasoutheast,5006-352,077050-35,arup-ause-edge-connect-rg
+az-ause-cc01-pip,,jon.banks@arup.com,52.158.135.66,australiasoutheast,5006-352,077050-35,arup-ause-edge-connect-rg
+az-ause-cc02-mgmt-pip,,jon.banks@arup.com,13.70.158.198,australiasoutheast,5006-352,077050-35,arup-ause-edge-connect-rg
+az-ause-cc02-pip,,jon.banks@arup.com,13.70.149.47,australiasoutheast,5006-352,077050-35,arup-ause-edge-connect-rg
+azausecrctest01-pip,Cisco Secure Access Resource Connectors - Australia South East,david.noble@arup.com,13.73.111.195,australiasoutheast,5005-351,077031-16,arup-cisco-ause-rc-test-rg
+az-ause-rs01-pip,,scott.evans@arup.com,52.147.58.214,australiasoutheast,5005-351,077031-16,arup-ause-hub-networking-rg
+azauspwgwyp101-pip,Projectwise Servers,gary.turner@arup.com,20.213.162.210,australiaeast,01-89915,077132-13,arup-projectwise-prod-rg
+az-au-sy-csr-vm-01-pip,,jon.banks@arup.com,20.70.200.216,australiaeast,01-89904,077017-65,arup-az-au-sy-csr-rg
+az-au-sy-csr-vm-02-pip,,jon.banks@arup.com,40.82.213.40,australiaeast,01-89904,077017-65,arup-az-au-sy-csr-rg
+az-au-vi-csr-vm-01-pip,,jon.banks@arup.com,13.77.60.6,australiasoutheast,01-89904,077017-65,arup-az-au-vi-csr-rg
+az-au-vi-csr-vm-02-pip,,jon.banks@arup.com,52.189.223.121,australiasoutheast,01-89904,077017-65,arup-az-au-vi-csr-rg
+az-cac-cc01-mgmt-pip,,jon.banks@arup.com,4.172.248.113,canadacentral,5006-352,077050-35,arup-cac-edge-connect-rg
+az-cac-cc01-pip,,jon.banks@arup.com,4.172.249.163,canadacentral,5006-352,077050-35,arup-cac-edge-connect-rg
+az-cac-cc02-mgmt-pip,,jon.banks@arup.com,20.220.17.169,canadacentral,5006-352,077050-35,arup-cac-edge-connect-rg
+az-cac-cc02-pip,,jon.banks@arup.com,20.220.16.212,canadacentral,5006-352,077050-35,arup-cac-edge-connect-rg
+az-ca-cc-csr-vm-01-pip,,jon.banks@arup.com,20.151.237.140,canadacentral,01-89904,077017-65,arup-az-ca-cc-csr-rg
+az-ca-cc-csr-vm-02-pip,,jon.banks@arup.com,4.206.202.156,canadacentral,01-89904,077017-65,arup-az-ca-cc-csr-rg
+az-ca-ce-csr-vm-01-pip,,jon.banks@arup.com,20.220.90.157,canadaeast,01-89904,077017-65,arup-az-ca-ce-csr-rg
+az-ca-ce-csr-vm-02-pip,,jon.banks@arup.com,20.104.134.235,canadaeast,01-89904,077017-65,arup-az-ca-ce-csr-rg
+az-cac-rs01-pip,,scott.evans@arup.com,52.138.53.77,canadacentral,01-89904,077017-65,arup-cac-hub-networking-rg
+az-cae-cc01-mgmt-pip,,jon.banks@arup.com,4.239.107.221,canadaeast,5006-352,077050-35,arup-cae-edge-connect-rg
+az-cae-cc01-pip,,jon.banks@arup.com,4.239.107.209,canadaeast,5006-352,077050-35,arup-cae-edge-connect-rg
+az-cae-cc02-mgmt-pip,,jon.banks@arup.com,4.248.54.221,canadaeast,5006-352,077050-35,arup-cae-edge-connect-rg
+az-cae-cc02-pip,,jon.banks@arup.com,4.248.54.191,canadaeast,5006-352,077050-35,arup-cae-edge-connect-rg
+az-cae-rs01-pip,,scott.evans@arup.com,4.239.98.84,canadaeast,01-89904,077017-65,arup-cae-hub-networking-rg
+azcinasavm01-pip,Cisco Anyconnect - Central India,michal.plater@arup.com,20.235.106.64,centralindia,01-737,077031-13,arup-centralindia-anyconnect-prod-rg
+azeaautoarch01-ip,,Michael.Schleger@arup.com,52.184.83.203,eastasia,01-89904,077017-65,arup-automated-archiving-prod-rg
+az-ea-cc01-mgmt-pip,,jon.banks@arup.com,52.139.152.233,eastasia,08-351,077031-15,arup-ea-edge-connect-rg
+az-ea-cc01-pip,,jon.banks@arup.com,104.214.181.122,eastasia,08-351,077031-15,arup-ea-edge-connect-rg
+az-ea-cc02-mgmt-pip,,jon.banks@arup.com,20.205.129.79,eastasia,08-351,077031-15,arup-ea-edge-connect-rg
+az-ea-cc02-pip,,jon.banks@arup.com,20.255.48.215,eastasia,08-351,077031-15,arup-ea-edge-connect-rg
+az-ea-hk-csr-vm-01-pip,,jon.banks@arup.com,13.94.58.151,eastasia,01-89904,077017-65,arup-az-ea-hk-csr-rg
+az-ea-hk-csr-vm-02-pip,,jon.banks@arup.com,13.75.117.166,eastasia,01-89904,077017-65,arup-az-ea-hk-csr-rg
+azearpwgwyp101-pip,Projectwise Servers,gary.turner@arup.com,104.208.106.132,eastasia,01-89915,077132-13,arup-projectwise-prod-rg
+az-ea-rs01-pip,,scott.evans@arup.com,20.2.22.59,eastasia,5006-352,077050-35,arup-ea-hub-networking-rg
+az-ea-sin-asa-vm-01-ip,,michal.plater@arup.com,20.191.153.68,southeastasia,08-351,077031-15,arup-sea-anyconnect-prod-rg
+az-ea-sin-csr-vm-01-pip,,jon.banks@arup.com,20.195.42.244,southeastasia,01-89904,077017-65,arup-az-ea-sin-csr-rg
+az-ea-sin-csr-vm-02-pip,,jon.banks@arup.com,20.198.168.129,southeastasia,01-89904,077017-65,arup-az-ea-sin-csr-rg
+az-eu-am-csr-vm-01-pip,,jon.banks@arup.com,20.56.26.249,westeurope,01-89904,077017-65,arup-az-eu-am-csr-rg
+az-eu-am-csr-vm-02-pip,,jon.banks@arup.com,51.136.114.141,westeurope,01-89904,077017-65,arup-az-eu-am-csr-rg
+az-eu-du-csr-vm-01-pip,,jon.banks@arup.com,40.113.36.88,northeurope,01-89904,077017-65,arup-az-eu-du-csr-rg
+az-eu-du-csr-vm-02-pip,,jon.banks@arup.com,20.54.82.125,northeurope,01-89904,077017-65,arup-az-eu-du-csr-rg
+azeurpwgwyp101-pip,Projectwise Servers,gary.turner@arup.com,51.11.165.215,uksouth,01-89915,077132-13,arup-projectwise-prod-rg
+azeusasavm01-pip,Cisco Anyconnect - East US,michal.plater@arup.com,172.190.60.175,eastus,5006-352,077050-35,arup-east-us-anyconnect-prod-rg
+azeusasavm02-pip,Cisco Anyconnect - East US,michal.plater@arup.com,172.191.209.105,eastus,5006-352,077050-35,arup-east-us-anyconnect-prod-rg
+az-eus-cc01-mgmt-pip,,jon.banks@arup.com,74.235.83.22,eastus,5006-352,077050-35,arup-eus-edge-connect-rg
+az-eus-cc01-pip,,jon.banks@arup.com,74.235.83.24,eastus,5006-352,077050-35,arup-eus-edge-connect-rg
+az-eus-cc02-mgmt-pip,,jon.banks@arup.com,20.127.217.80,eastus,5006-352,077050-35,arup-eus-edge-connect-rg
+az-eus-cc02-pip,,jon.banks@arup.com,20.127.216.45,eastus,5006-352,077050-35,arup-eus-edge-connect-rg
+azeuscrctest01-pip,Cisco Secure Access Resource Connectors - EastUS Region,david.noble@arup.com,172.191.32.122,eastus,5005-351,077031-16,arup-cisco-eus-rc-test-rg
+az-eus-rs01-pip,,scott.evans@arup.com,13.90.18.183,eastus,01-89904,077017-65,arup-eus-hub-networking-rg
+azhkeaasa01-pip,,nishith.amin@arup.com,20.2.192.146,eastasia,01-89904,077017-65,arup-eastasia-anyconnect-prod-rg
+azhkeaasa02-pip,,nishith.amin@arup.com,20.255.153.140,eastasia,01-89904,077017-65,arup-eastasia-anyconnect-prod-rg
+azhkofficevm01-pip,Hong Kong Office,icho.delos-santos@arup.com,40.83.99.210,eastasia,01-89904,077017-65,arup-hk-office-prod-rg
+azieatmonsd01-pip,,david.edmends@arup.com,74.234.64.90,northeurope,01-89915,077057-33,arup-esri-monitor-dev-rg
+azieatmonsp01-pip,,david.edmends@arup.com,13.79.129.13,northeurope,01-89915,077057-33,arup-esri-monitor-prod-rg
+azieatmonsu01-pip,,david.edmends@arup.com,23.100.60.86,northeurope,01-89915,077057-33,arup-esri-monitor-uat-rg
+az-jpe-cc01-mgmt-pip,,scott.evans@arup.com,74.226.160.38,japaneast,01-89904,077017-65,arup-networking-core-rg
+az-jpe-cc01-pip,,jon.banks@arup.com,48.218.141.174,japaneast,01-737,077031-13,arup-jpe-edge-connect-rg
+az-jpe-cc02-ip,,jon.banks@arup.com,172.207.25.4,japaneast,01-737,077031-13,arup-jpe-edge-connect-rg
+az-jpe-cc02-pip,,jon.banks@arup.com,13.78.126.123,japaneast,01-737,077031-13,arup-jpe-edge-connect-rg
+az-jpe-rs01-pip,,scott.evans@arup.com,48.218.137.245,japaneast,01-89904,077017-65,arup-networking-core-rg
+azncusasavm01,NCUS Any Connect,michal.plater@arup.com,172.214.233.32,northcentralus,5006-352,077050-35,arup-ncus-any-connect-prod-rg
+azncusasavm02,NCUS Any Connect,michal.plater@arup.com,172.214.236.229,northcentralus,5006-352,077050-35,arup-ncus-any-connect-prod-rg
+az-ncus-cc01-mgmt-pip,,jon.banks@arup.com,172.183.127.0,northcentralus,5006-352,077050-35,arup-ncus-edge-connect-rg
+az-ncus-cc01-pip,,jon.banks@arup.com,20.25.198.190,northcentralus,5006-352,077050-35,arup-ncus-edge-connect-rg
+az-ncus-cc02-mgmt-pip,,jon.banks@arup.com,172.214.198.39,northcentralus,5006-352,077050-35,arup-ncus-edge-connect-rg
+az-ncus-cc02-pip,,jon.banks@arup.com,172.214.198.38,northcentralus,5006-352,077050-35,arup-ncus-edge-connect-rg
+az-ncus-rs01-pip,,scott.evans@arup.com,52.237.156.171,northcentralus,01-89904,077017-65,arup-ncus-hub-networking-rg
+az-neu-cc01-mgmt-pip,,jon.banks@arup.com,98.71.12.47,northeurope,81-351,077031-14,arup-neu-edge-connect-rg
+az-neu-cc01-pip,,jon.banks@arup.com,98.71.12.157,northeurope,81-351,077031-14,arup-neu-edge-connect-rg
+az-neu-cc02-mgmt-pip,,jon.banks@arup.com,20.123.92.111,northeurope,81-351,077031-14,arup-neu-edge-connect-rg
+az-neu-cc02-pip,,jon.banks@arup.com,20.123.92.69,northeurope,81-351,077031-14,arup-neu-edge-connect-rg
+az-neu-rs01-pip,,scott.evans@arup.com,13.79.60.244,northeurope,01-89904,077017-65,arup-neu-hub-networking-rg
+azoasyswebp01-pip,,martin.cramp@arup.com,20.77.154.97,uksouth,01-936,077122-20,arup-oasys-web-prod-rg
+azoasyswebu01-pip,Oasys Web,martin.cramp@arup.com,51.143.232.247,uksouth,01-737,077031-13,arup-oasys-web-uat-rg
+azpbbp01-pip,Bluebeam Studio Entp ver 3.2,marinette.malik@arup.com,4.229.234.82,canadacentral,5006-352,077050-35,arup-canada-bluebeam-prod-rg
+AZPCLDMGRUSC106-ip315,,michael.siculiano@arup.com,20.169.232.249,eastus,18-351,070050-13,arup-cvo-manager-eus-prod-rg
+azpukskms01-pip,Regional Linux QIP Servers,adrian.giles@arup.com,40.81.128.190,uksouth,01-737,077031-13,arup-dmz-kms-server-prod-rg
+azpuniapps01-ip,,yunwei.wang@arup.com,13.70.189.9,australiasoutheast,5015-009,088613-22,arup-ai3d-sandpit-rg
+azsanasavm01-pip,Cisco Anyconnect - South Africa North,michal.plater@arup.com,20.164.216.122,southafricanorth,01-737,077031-13,arup-southafricanorth-anyconnect-prod-rg
+az-san-cc01-mgmt-pip,,jon.banks@arup.com,4.222.185.124,southafricanorth,01-737,077031-13,arup-san-edge-connect-rg
+az-san-cc01-pip,,jon.banks@arup.com,4.222.185.138,southafricanorth,01-737,077031-13,arup-san-edge-connect-rg
+az-san-cc02-mgmt-pip,,jon.banks@arup.com,40.127.12.83,southafricanorth,01-737,077031-13,arup-san-edge-connect-rg
+az-san-cc02-pip,,jon.banks@arup.com,40.127.11.21,southafricanorth,01-737,077031-13,arup-san-edge-connect-rg
+az-san-rs01-pip,,scott.evans@arup.com,4.221.156.152,southafricanorth,01-89904,077017-65,arup-san-hub-networking-rg
+az-saw-cc01-mgmt-pip,,jon.banks@arup.com,172.209.17.91,southafricawest,01-737,077031-13,arup-saw-edge-connect-rg
+az-saw-cc01-pip,,jon.banks@arup.com,172.209.17.99,southafricawest,01-737,077031-13,arup-saw-edge-connect-rg
+az-saw-cc02-mgmt-pip,,jon.banks@arup.com,172.209.16.65,southafricawest,01-737,077031-13,arup-saw-edge-connect-rg
+az-saw-cc02-pip,,jon.banks@arup.com,172.209.16.248,southafricawest,01-737,077031-13,arup-saw-edge-connect-rg
+az-saw-rs01-pip,,scott.evans@arup.com,20.87.176.193,southafricawest,01-89904,077017-65,arup-saw-hub-networking-rg
+az-scus-cc01-mgmt-pip,,jon.banks@arup.com,40.124.142.208,southcentralus,5006-352,077050-35,arup-scus-edge-connect-rg
+az-scus-cc01-pip,,jon.banks@arup.com,40.124.140.135,southcentralus,5006-352,077050-35,arup-scus-edge-connect-rg
+az-scus-cc02-mgmt-pip,,jon.banks@arup.com,4.151.8.80,southcentralus,5006-352,077050-35,arup-scus-edge-connect-rg
+az-scus-cc02-pip,,jon.banks@arup.com,20.64.86.29,southcentralus,5006-352,077050-35,arup-scus-edge-connect-rg
+az-scus-rs01-pip,,scott.evans@arup.com,13.84.240.187,southcentralus,01-89904,077017-65,arup-scus-hub-networking-rg
+az-sea-cc01-mgmt-pip,,jon.banks@arup.com,20.6.90.39,southeastasia,5006-352,077050-35,arup-sea-edge-connect-rg
+az-sea-cc01-pip,,jon.banks@arup.com,20.6.88.246,southeastasia,5006-352,077050-35,arup-sea-edge-connect-rg
+az-sea-cc02-mgmt-pip,,jon.banks@arup.com,20.212.233.188,southeastasia,5006-352,077050-35,arup-sea-edge-connect-rg
+az-sea-cc02-pip,,jon.banks@arup.com,20.212.233.68,southeastasia,5006-352,077050-35,arup-sea-edge-connect-rg
+az-sea-rs01-pip,,scott.evans@arup.com,52.148.94.194,southeastasia,5006-352,077050-35,arup-sea-hub-networking-rg
+azsmtpesa01-pip,,ayoob.hammad@arup.com,13.79.128.76,northeurope,01-89904,077017-65,arup-smtp-prod-rg
+azsmtpesa02-pip,,ayoob.hammad@arup.com,52.169.164.18,northeurope,01-89904,077017-65,arup-smtp-prod-rg
+aztachyonp01-pip,,mark.burford@arup.com,20.108.195.24,uksouth,01-89904,077017-65,arup-tachyon-prod-rg
+aztsslicp01-pip,,gary.turner@arup.com,51.142.123.90,uksouth,01-89904,077017-65,arup-tss-license-servers-prod-rg
+az-uk-np-csr-vm-01-pip,,jon.banks@arup.com,51.141.47.216,ukwest,01-89904,077017-65,arup-az-uk-np-csr-rg
+az-uk-np-csr-vm-02-pip,,jon.banks@arup.com,51.140.230.10,ukwest,01-89904,077017-65,arup-az-uk-np-csr-rg
+az-uks-cc01-mgmt-pip,,jon.banks@arup.com,20.117.225.56,uksouth,01-737,077031-13,arup-uks-edge-connect-rg
+az-uks-cc01-pip,,jon.banks@arup.com,172.187.208.29,uksouth,01-737,077031-13,arup-uks-edge-connect-rg
+az-uks-cc02-mgmt-pip,,jon.banks@arup.com,20.90.145.29,uksouth,01-737,077031-13,arup-uks-edge-connect-rg
+az-uks-cc02-pip,,jon.banks@arup.com,172.187.88.98,uksouth,01-737,077031-13,arup-uks-edge-connect-rg
+azukscrctest01-pip,Cisco Secure Access Resource Connectors - UK South Region,david.noble@arup.com,20.0.249.66,uksouth,5005-351,077031-16,arup-cisco-uks-rc-test-rg
+az-uk-sl-csr-vm-01-pip,,jon.banks@arup.com,51.11.187.204,uksouth,01-89904,077017-65,arup-az-uk-sl-csr-rg
+az-uk-sl-csr-vm-02-pip,,jon.banks@arup.com,51.11.187.226,uksouth,01-89904,077017-65,arup-az-uk-sl-csr-rg
+az-uks-rs01-pip,,scott.evans@arup.com,4.234.125.46,uksouth,01-89904,077017-65,arup-uks-hub-networking-rg
+az-ukw-cc01-mgmt-pip,,jon.banks@arup.com,51.141.90.43,ukwest,01-89904,077017-65,arup-ukw-edge-connect-rg
+az-ukw-cc01-pip,,jon.banks@arup.com,51.141.79.8,ukwest,01-89904,077017-65,arup-ukw-edge-connect-rg
+az-ukw-cc02-mgmt-pip,,jon.banks@arup.com,51.141.76.250,ukwest,01-89904,077017-65,arup-ukw-edge-connect-rg
+az-ukw-cc02-pip,,jon.banks@arup.com,51.141.67.55,ukwest,01-89904,077017-65,arup-ukw-edge-connect-rg
+az-ukw-rs01-pip,,scott.evans@arup.com,51.141.51.140,ukwest,01-89904,077017-65,arup-ukw-hub-networking-rg
+azure-devops-lab-12155844575000,,pablo.godino@arup.com,20.160.33.145,westeurope,01-89904,077017-65,azure-devops-lab-12155844575000
+az-us-eus-csr-vm-01-pip,,jon.banks@arup.com,172.174.163.182,eastus,01-89904,077017-65,arup-az-us-eus-csr-rg
+az-us-eus-csr-vm-02-pip,,jon.banks@arup.com,74.235.120.90,eastus,01-89904,077017-65,arup-az-us-eus-csr-rg
+az-us-nc-csr-vm-01-pip,,jon.banks@arup.com,23.96.224.53,northcentralus,01-89904,077017-65,arup-az-us-nc-csr-rg
+az-us-nc-csr-vm-02-pip,,jon.banks@arup.com,23.96.226.18,northcentralus,01-89904,077017-65,arup-az-us-nc-csr-rg
+az-us-sc-csr-vm-01-pip,,jon.banks@arup.com,104.215.97.253,southcentralus,01-89904,077017-65,arup-az-us-sc-csr-rg
+az-us-sc-csr-vm-02-pip,,jon.banks@arup.com,104.215.83.156,southcentralus,01-89904,077017-65,arup-az-us-sc-csr-rg
+az-us-sc-ftd-axway-pip,,jon.banks@arup.com,20.94.171.22,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-pip01,,jon.banks@arup.com,52.152.88.246,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-projectwise-gwy-pip,,jon.banks@arup.com,20.45.3.179,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-projectwise-mob-pip,,jon.banks@arup.com,20.45.3.246,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-projectwise-web-pip,,jon.banks@arup.com,20.45.0.65,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-vm01nic0-ip,,jon.banks@arup.com,52.152.26.177,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-sc-ftd-vm02nic0-ip,,jon.banks@arup.com,52.152.26.138,southcentralus,01-89904,077017-65,arup-az-us-sc-ftd-rg
+az-us-wus-csr-vm-01-pip,,jon.banks@arup.com,40.86.162.101,westus,01-89904,077017-65,arup-az-us-wus-csr-rg
+az-us-wus-csr-vm-02-pip,,jon.banks@arup.com,40.83.179.165,westus,01-89904,077017-65,arup-az-us-wus-csr-rg
+az-weu-cc01-mgmt-pip,,jon.banks@arup.com,172.205.210.254,westeurope,81-351,077031-14,arup-weu-edge-connect-rg
+az-weu-cc01-pip,,jon.banks@arup.com,172.205.213.61,westeurope,81-351,077031-14,arup-weu-edge-connect-rg
+az-weu-cc02-mgmt-pip,,jon.banks@arup.com,51.136.110.9,westeurope,81-351,077031-14,arup-weu-edge-connect-rg
+az-weu-cc02-pip,,jon.banks@arup.com,51.136.110.13,westeurope,81-351,077031-14,arup-weu-edge-connect-rg
+az-weu-rs01-pip,,scott.evans@arup.com,13.80.112.58,westeurope,01-89904,077017-65,arup-weu-hub-networking-rg
+azwinadoagent-ip,,stuart.pittwood@arup.com,20.117.225.254,uksouth,01-89904,077017-65,arup-deployment-agents-prod-rg
+azwusasavm01-pip,Cisco Anyconnect - West US,michal.plater@arup.com,13.73.35.109,westus,5006-352,077050-35,arup-westus-anyconnect-prod-rg
+azwusasavm02-pip,Cisco Anyconnect - West US,michal.plater@arup.com,57.154.186.200,westus,5006-352,077050-35,arup-westus-anyconnect-prod-rg
+az-wus-cc01-mgmt-pip,,jon.banks@arup.com,13.91.22.231,westus,5006-352,077050-35,arup-wus-edge-connect-rg
+az-wus-cc01-pip,,jon.banks@arup.com,13.91.100.180,westus,5006-352,077050-35,arup-wus-edge-connect-rg
+az-wus-cc02-mgmt-pip,,jon.banks@arup.com,13.83.80.208,westus,5006-352,077050-35,arup-wus-edge-connect-rg
+az-wus-cc02-pip,,jon.banks@arup.com,13.83.81.4,westus,5006-352,077050-35,arup-wus-edge-connect-rg
+az-wus-rs01-pip,,scott.evans@arup.com,13.93.212.7,westus,5006-352,077050-35,arup-wus-hub-networking-rg
+BackupVMBIM-ip,,richard.barnes@arup.com,51.143.189.166,uksouth,01-89904,077013-54,arup-nerdio-prod-rg
+bastion01-pip,ECWE Onboarding Tool,lingyi.chen@arup.com,4.172.208.228,canadacentral,23-042,276055-98,arup-ecwe-onboarding-prod-rg
+bastion01-pip,ECWE Onboarding Tool,lingyi.chen@arup.com,4.204.8.249,canadacentral,23-042,276055-98,arup-ecwe-onboarding-dev-rg
+bastion-ip,,thomas.marr@arup.com,20.26.239.226,uksouth,01-860,077604-60,arup-hseq-launchpad-dev-rg
+capp-svc-lb-ip,,,85.210.184.53,uksouth,,,me_fusegbdevvnetcae_arup-fuse-contr-apps-gb-dev-rg_uksouth
+capp-svc-lb-ip,,Joseph.McGenn@arup.com,85.210.168.151,uksouth,5015-008,088611-22,me_fusegbdevwpcaet_arup-fuse-contr-apps-gb-dev-rg_uksouth
+capp-svc-lb-ip,Fuse Container Apps,Joseph.McGenn@arup.com,135.236.178.101,northeurope,5015-008,088611-22,me_fuseieprodvnetcae_arup-fuse-contr-apps-ie-prod-rg_northeurope
+centralsite3d03-pip,Central Site 3 Project,yun.sung@arup.com,20.6.232.134,eastasia,5014-065,285547-66,arup-cs3-dev-rg
+centralsite3d04-pip,Central Site 3 Project,yun.sung@arup.com,20.6.232.199,eastasia,5014-065,285547-66,arup-cs3-dev-rg
+chwvmspublicip,,matthew.walden@arup.com,52.243.92.42,australiasoutheast,5002-270,292748-03,arup-chwvms-sandpit-rg
+CIA-WIN-10-ip,,John.Porter@arup.com,52.166.174.137,westeurope,01-89904,077017-65,arupdevazure
+devops-host-1-ip,Agent VM for Azure DevOps Intranet Project,John.Porter@arup.com,23.97.193.155,westeurope,01-89904,077017-65,arup-dev-devops-vms
+docnumbering-prod-public-ip,docnumbering,glen.rainbird@arup.com,52.155.223.160,northeurope,01-89904,077017-65,arup-docnumbering-prod-rg
+docnumbering-uat-public-ip,docnumbering,glen.rainbird@arup.com,52.142.86.254,northeurope,01-89904,077017-65,arup-docnumbering-uat-rg
+dr-fe-pip,JDE Edwards Application Gateway,alison.lane@arup.com,20.90.52.25,ukwest,01-89904,077017-76,arup-jde-appgw-dr-rg
+dtpdevvm01-pip,Digital Twin Platform,wilson.chung@arup.com,20.2.8.238,eastasia,08-128,282763-92,arup-dtp-dev-rg
+dtpprodvm01-pip,Digital Twin Platform,wilson.chung@arup.com,20.2.168.177,eastasia,08-128,282763-92,arup-dtp-prod-rg
+dtptestvm01-pip,Digital Twin Platform,wilson.chung@arup.com,52.175.17.67,eastasia,08-128,282763-92,arup-dtp-test-rg
+ea-csr-jp-vm1-pip,Cisco CSR - Japan East,jon.banks@arup.com,13.78.48.118,japaneast,01-89904,077017-65,arup-ea-csr-jp-vm-rg
+earsbcaz01-pip,,Jeffrey.Zhang@arup.com,13.94.56.83,eastasia,01-89904,077013-16,arup-sbc-ea-prod-rg
+earsbcaz02-pip,,Jeffrey.Zhang@arup.com,52.187.79.11,southeastasia,01-89904,077013-16,arup-sbc-ea-prod-rg
+earsccmcmg01,,richard.barnes@arup.com,20.239.30.87,eastasia,08-351,077031-15,earsccmcmg01
+erudite-dev-gw-pip,Erudite Development Desktops for Evosys users,chee-wing.yee@arup.com,20.108.108.126,uksouth,01-50502,077075-33,arup-erudite-desktops-dev-rg
+esri-dev-public-ip,ESRI - DEV,david.edmends@arup.com,20.67.189.37,northeurope,01-89915,077057-33,arup-esri-ie-at-dev-rg
+esri-prod-public-ip,ATLAS/ESRI PENN,david.edmends@arup.com,20.241.29.141,northcentralus,01-89915,077057-33,arup-esri-us-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,104.209.89.83,australiaeast,01-89915,077057-33,arup-esri-au-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,4.172.64.84,canadacentral,01-89915,077057-33,arup-esri-cc-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,40.119.213.136,southeastasia,01-89915,077057-33,arup-esri-sg-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,40.127.245.129,northeurope,01-89915,077057-33,arup-esri-ie-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,51.104.248.176,uksouth,01-89915,077057-33,arup-esri-gb-at-prod-rg
+esri-prod-public-ip,ESRI - Prod,david.edmends@arup.com,52.139.15.83,canadacentral,01-89915,077057-33,arup-esri-ca-at-prod-rg
+esri-uat-public-ip,ESRI - UAT,david.edmends@arup.com,4.172.11.95,canadacentral,01-89915,077057-33,arup-esri-ca-at-uat-rg
+esri-uat-public-ip,ESRI - UAT,david.edmends@arup.com,4.174.201.226,canadacentral,01-89915,077057-33,arup-esri-cc-at-uat-rg
+esri-uat-public-ip,ESRI - UAT,david.edmends@arup.com,51.104.181.146,northeurope,01-89915,077057-33,arup-esri-ie-at-uat-rg
+eu-csr-du-vm1-ip,Cisco CSR - North Europe,jon.banks@arup.com,52.158.40.106,northeurope,01-89904,077017-65,arup-eu-csr-du-rg
+eu-csr-du-vm2-ip,Cisco CSR - North Europe,jon.banks@arup.com,52.158.33.75,northeurope,01-89904,077017-65,arup-eu-csr-du-rg
+eu-nessus-vm1-ip,,joe.powell@arup.com,52.178.209.11,northeurope,01-89904,077017-65,eu-nessus-test-rg
+eureiccedge01-pip,,Chris.Ellen@arup.com,172.187.210.224,uksouth,01-737,077031-16,arup-eicc-eur-prod-rg
+eureiccedge02-pip,,Chris.Ellen@arup.com,51.142.155.39,ukwest,01-737,077031-16,arup-eicc-eur-prod-rg
+eursccmcmg01,,richard.barnes@arup.com,20.26.106.208,uksouth,81-351,077031-14,eursccmcmg01
+ext-moodle-prod-pip,,John.Porter@arup.com,20.54.25.41,northeurope,01-89904,077017-68,arup-ext-moodle-prod-rg
+ext-moodle-uat-pip,ext-moodle,John.Porter@arup.com,51.104.146.96,northeurope,01-89904,077017-68,arup-ext-moodle-uat-rg
+fe-pip,JDE Edwards Application Gateway,alison.lane@arup.com,20.26.1.230,uksouth,01-89904,077017-76,arup-jde-appgw-rg
+hotdocs-appgw-public-ip,,alvin.wiyanto@arup.com,20.190.110.204,australiasoutheast,01-89907,077060-76,arup-hotdocs-uat-rg
+hotdocs-prod-app-gw,,alvin.wiyanto@arup.com,20.70.109.229,australiasoutheast,01-89907,077060-76,arup-hotdocs-ukprod-rg
+hseq-launchpad-bastion-ip,,thomas.marr@arup.com,172.187.136.102,uksouth,01-860,077604-60,arup-hseq-launchpad-dev-rg
+hseq-service-ip,,thomas.marr@arup.com,51.105.11.28,uksouth,01-860,077604-60,arup-hseq-launchpad-dev-rg
+hseq-vnet-ip,,thomas.marr@arup.com,20.0.226.208,uksouth,01-860,077604-60,arup-hseq-launchpad-dev-rg
+int-moodle-dr-prod-pip,Moodle,John.Porter@arup.com,20.101.251.32,westeurope,01-89904,077017-68,arup-int-moodle-dr-prod-rg
+int-moodle-prod-pip,Moodle,esteban.maria@arup.com,20.234.72.130,northeurope,01-89904,077017-68,arup-int-moodle-prod-rg
+int-moodle-uat-pip,Moodle,esteban.maria@arup.com,20.82.235.87,northeurope,01-89904,077017-68,arup-int-moodle-uat-rg
+isa-bastion-ip,,bob.van-kappel@arup.com,20.254.155.157,ukwest,25-050,286549-21,isa
+isa-postprocessor-ip,,bob.van-kappel@arup.com,51.142.184.111,ukwest,25-050,286549-21,isa
+isapostprocessorip563,,bob.van-kappel@arup.com,20.224.192.155,westeurope,25-050,286549-21,isa
+ISA-vnet-ip,,bob.van-kappel@arup.com,51.141.15.234,ukwest,25-050,286549-21,isa
+JanusServer-ip,,Devin.Bean@arup.com,13.92.131.192,eastus,01-89904,077017-73,arup-acoustics-wiki-sandpit-rg
+jde-nprd-appgw-fe-pip,JDE Edwards Non-Production Application Gateway,rash.patel@arup.com,20.58.62.76,uksouth,01-89904,077017-76,arup-jde-nprd-appgw-rg
+jumpbox2-ip,,suzanne.rowan@arup.com,20.255.63.117,eastasia,01-604,076531-01,arup-be1-sandpit-rg
+kubernetes-a18f8afe5a60e4a8e8e5dca0b0a8eb0f,,george.aggrey@arup.com,172.166.84.45,uksouth,01-648,077060-96,mc_arup-compute-dev-rg_ac-dev-kubernetes_uksouth
+lb-frontend-ip,,huan-ting.chen@arup.com,20.24.180.27,southeastasia,13-182,075980-01,arup-sintrgroup-prod-rg
+linux-bastion-ip,,darren.hall@arup.com,172.187.179.243,uksouth,5015-005,088602-22,arup-swam-dev-rg
+LLM-VM-ip,,wen.liu@arup.com,172.210.28.231,eastus,08-210,074476-93,arup-llm-uat-rg
+moodle-dev39-app-pip,,John.Porter@arup.com,20.123.97.18,northeurope,01-89904,077017-68,arup-moodle-dev-rg
+moodle-dev-app-pip,,John.Porter@arup.com,20.191.58.199,northeurope,01-89904,077017-68,arup-moodle-dev-rg
+myVm-ip,,sean.merrifield@arup.com,68.219.180.12,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+nat-gw-public-ip,,Yi-Jin.Lee@arup.com,20.223.16.207,northeurope,01-487,076969-00,databricks-rg-arup-azure-databricks-test-north-europe-3cyjplxghupgw
+nat-gw-public-ip,,Yi-Jin.Lee@arup.com,51.142.213.188,uksouth,01-487,076969-00,databricks-rg-datab-qyfbaazpfvrsw
+netapp-aus-southeast-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,52.147.48.225,australiasoutheast,01-677,077031-13,arup-netapp-ocum-prod-rg
+netapp-canada-central-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,4.172.25.85,canadacentral,5006-352,077031-13,arup-netapp-ocum-prod-rg
+netapp-east-asia-nat-lb-pip,,cloudcomputeteam@arup.com,20.255.141.138,eastasia,01-677,077031-13,arup-netapp-ocum-prod-rg
+netapp-north-central-us-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,135.224.29.208,northcentralus,5006-352,077031-13,arup-netapp-ocum-prod-rg
+netapp-north-europe-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,172.205.103.6,northeurope,81-351,077031-13,arup-netapp-ocum-prod-rg
+netapp-uksouth-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,4.158.38.158,uksouth,01-677,077031-13,arup-netapp-ocum-prod-rg
+netapp-ukwest-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,51.141.28.108,ukwest,01-677,077031-13,arup-netapp-ocum-prod-rg
+netapp-west-europe-cvo-nat-lb-pip,,cloudcomputeteam@arup.com,57.153.133.40,westeurope,01-677,077031-13,arup-netapp-ocum-prod-rg
+NicIPConfigName1,,pablo.godino@arup.com,20.160.33.139,westeurope,01-89904,077017-65,azure-devops-lab-12155844575000
+No filters applied,,,,,,,
+OMSLinuxTest-ip,,richard.barnes@arup.com,13.81.204.221,westeurope,01-89904,077017-65,global_automation
+openfoam2-ip,,sean.merrifield@arup.com,20.224.12.191,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoam3-ip,,sean.merrifield@arup.com,20.82.112.207,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoam5-ip,,sean.merrifield@arup.com,20.86.150.4,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoam-ip,,sean.merrifield@arup.com,98.71.132.106,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoamip131,,sean.merrifield@arup.com,4.231.35.180,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoamip934,,sean.merrifield@arup.com,4.231.98.217,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+openfoamv2-ip,,sean.merrifield@arup.com,20.86.136.133,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+pip-arup-japaneast-hub-vnet-japaneast-sdwan_gateway_mgmt,,scott.evans@arup.com,4.215.197.8,japaneast,01-89904,077017-65,arup-networking-core-rg
+pip-arup-uksouth-uat-spoke-vnet-uksouth-dba-shared-subnet,,naeem.javaid@arup.com,172.166.230.74,uksouth,01-89915,077132-11,arup-dataplatforms-db-iaas-uat-rg
+pip-mmworkshop-test,,chavelle.wilson@arup.com,20.12.15.168,eastus2,01-936,077129-08,arup-massmotion-dev-rg
+projects-prod-public-ip,projects,nick.harvey@arup.com,52.158.29.197,northeurope,01-89904,077017-65,arup-projects-prod-rg
+qeep-dev-app01-pip,Qeep,scott.fagg@arup.com,20.193.15.86,australiaeast,01-89907,077132-32,arup-qeep-dev-rg
+qeep-prod-public-ip,,scott.fagg@arup.com,20.53.174.13,australiaeast,01-89907,077132-32,arup-qeep-prod-rg
+qeep-uat-public-ip,,scott.fagg@arup.com,20.53.195.146,australiaeast,01-89907,077132-32,arup-qeep-uat-rg
+recharge-analyse-dev-jobs-fn-outbound,,scott.fagg@arup.com,20.54.14.99,northeurope,01-89915,077134-91,arup-recharge-analyse-dev-rg
+recharge-analyse-prod-jobs-fn-outbound,,scott.fagg@arup.com,20.54.31.247,northeurope,01-89915,077134-91,arup-recharge-analyse-prod-rg
+recharge-analyse-uat-jobs-fn-outbound,,scott.fagg@arup.com,20.166.161.88,northeurope,01-89915,077134-91,arup-recharge-analyse-uat-rg
+RescueVM-ip,,richard.barnes@arup.com,172.167.229.62,uksouth,01-899,077013-41,arup-automation-packaging-prod-rg
+RhinoCompute-ip,,Yamin.Tengono@arup.com,172.188.44.130,southeastasia,01-89907,077130-19,bim-design-automation
+RWWSLTesting-vnet-ip,,richard.barnes@arup.com,40.120.54.101,uksouth,01-89904,077017-65,global_automation
+sbcedgeprodvm01-pip,,Jeffrey.Zhang@arup.com,20.213.16.204,australiaeast,01-89904,088349-90,arup-sbc-edge-prod-rg
+scom-mi-test-natgw-pip,SCOM managed instance,anthony.ashmead@arup.com,51.124.246.233,westeurope,01-89904,077017-65,arup-scom-mi-test-rg
+scom-mi-uat-natgw-pip,SCOM managed instance,anthony.ashmead@arup.com,20.4.60.154,westeurope,01-89904,077017-65,arup-scom-mi-uat-rg
+scottVM-ip,,sean.merrifield@arup.com,51.105.246.251,westeurope,01-89915,071102-73,arup-weu-hpc-batch-dev-rg
+sp-sandpit-pub-lb-config1-pip,Used to test terraform modules during development,stuart.pittwood@arup.com,172.166.158.236,uksouth,01-89904,111233-44,arup-module-test-deployment-sandpit-rg
+SRv1-ip,,,52.168.67.238,eastus,,,arupwestadvisorynetwork
+streetmix-ip,,huan-ting.chen@arup.com,20.28.50.62,australiacentral,13-182,075980-01,arup-sintrgroup-prod-rg
+swam-cicd-vm-ip,SWAM NGFR,darren.hall@arup.com,172.167.195.26,uksouth,5015-005,088600-22,arup-swam-ngfr-dev-rg
+swam-cicd-vm-ip,SWAM NGFR,darren.hall@arup.com,51.145.98.9,uksouth,5015-005,088600-22,arup-swam-ngfr-prod-rg
+swam-dev-gateway-public-ip,,darren.hall@arup.com,4.234.104.142,uksouth,5015-005,088602-22,arup-swam-dev-rg
+swam-test-gateway-public-ip,,darren.hall@arup.com,51.132.1.113,uksouth,5015-005,088602-22,arup-swam-test-rg
+swam-vnet-dev-ip,,darren.hall@arup.com,20.68.214.84,uksouth,5015-005,088602-22,arup-swam-dev-rg
+swamvnetdevip280,,darren.hall@arup.com,51.11.36.185,uksouth,5015-005,088602-22,arup-swam-dev-rg
+tachon-pip,,mark.burford@arup.com,20.254.16.243,uksouth,01-89904,077017-65,arup-tachyon-dmz-prod-rg
+tachyon-prod-pip,Tachyon DMZ,mark.burford@arup.com,51.142.192.71,uksouth,01-89904,077017-65,arup-tachyon-dmz-prod-rg
+tda-pipeline-agent-uat-1-ip,,jake.schoemer@arup.com,20.2.70.185,eastasia,01-89907,071101-65,arup-tda-linux-uat-rg
+tdapipelineagentuat1ip649,,jake.schoemer@arup.com,20.2.70.255,eastasia,01-89907,071101-65,arup-tda-linux-uat-rg
+tda-pipeline-agent-uat-test-ip,,jake.schoemer@arup.com,20.205.131.175,eastasia,01-89907,071101-65,arup-tda-uat-rg
+tenablepublicip,,joe.powell@arup.com,20.58.25.35,uksouth,01-89904,077017-65,arup-tenable-prod-rg
+testnatgw-pip,,scott.evans@arup.com,20.16.118.106,westeurope,01-89904,077017-65,arup-networking-uat-rg
+twa-network-ip,,Chris.Ellen@arup.com,168.61.84.120,northeurope,01-89904,077017-65,arup-twa-prod-rg
+twa-public,,Chris.Ellen@arup.com,52.169.72.218,northeurope,01-899,077017-65,arup-twa-prod-rg
+ubuntu-vm-ip,,ben.hussey@arup.com,20.0.123.139,uksouth,01-359,076753-00,arup-psitsi2-digital-sandpit-rg
+ubuntu-vm-vnet-ip,,ben.hussey@arup.com,172.167.199.3,uksouth,01-359,076753-00,arup-psitsi2-digital-sandpit-rg
+ukssbcaz01-pip,,michal.witkowski@arup.com,20.90.75.176,uksouth,01-737,077031-13,arup-sbc-uk-prod-rg
+ukwsbcaz01-pip,,michal.witkowski@arup.com,51.140.224.130,ukwest,01-737,077031-13,arup-sbc-uk-prod-rg
+UpdateManualTesting2-ip,,richard.barnes@arup.com,51.12.250.92,swedencentral,01-89904,077017-65,global_automation
+VG1,,,13.92.86.176,eastus,,,test1
+VG2,,,13.82.90.168,eastus,,,test2
+VM1-ip,,,52.182.187.33,centralus,,,rbacvms
+vm-mm-server-ip,,chavelle.wilson@arup.com,74.249.50.47,eastus2,01-936,077129-08,arup-massmotion-dev-rg
+vmw-hcs-663d78ca338f7007f4997cdf-uag-lb-ip,,adrian.giles@arup.com,4.158.90.49,uksouth,01-89904,,vmw-hcs-663d78ca338f7007f4997cdf-uag
+vmw-hcs-663d8094cee2aa37b4ffb764-uag-lb-ip,,adrian.giles@arup.com,4.210.36.15,northeurope,,,vmw-hcs-663d8094cee2aa37b4ffb764-uag
+VNetGatewayIP,,naeem.javaid@arup.com,52.178.147.3,northeurope,01-89904,077017-65,rg-connection
+Win22-ip,,,20.67.45.82,westeurope,,,win22
+WIN365FINDEV-ip,,richard.barnes@arup.com,172.167.187.179,uksouth,01-737,077031-13,arup-wvd-custom-images-prod-rg
+win365findevRichB-ip,,richard.barnes@arup.com,172.187.212.202,uksouth,01-89904,077017-65,arup-uks-windows-365-prod-rg
