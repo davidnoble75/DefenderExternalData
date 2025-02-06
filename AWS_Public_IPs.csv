@@ -1,0 +1,343 @@
+region_name,state,name,platform,marketplace_image,key_name,public_ip_address,private_ip_address,modified_timestamp,account,cloud
+ap-southeast-2,running,awimpportal01,linux,FALSE,"[""au-buildings-imp-portal-key""]",13.238.101.252,10.124.2.11,11/02/2021 11:18,arup-au-shared-prod,AWS
+eu-west-1,running,aws-ew1-pr-ub-busconsole-01-uat,linux,FALSE,,63.33.55.112,10.0.2.134,05/02/2025 20:08,arup-digital-bus-method-uat,AWS
+eu-west-2,stopped,climate-data-lab-dev-instance,linux,FALSE,"[""climate-data-lab-dev-key""]",18.169.38.161,10.0.1.141,01/08/2023 10:41,arup-ukimea-climate-toolkit-dev-test,AWS
+eu-west-1,stopped,Ansible Tower,linux,FALSE,"[""AnsibleTowerDemo""]",52.48.189.182,10.0.1.96,11/02/2021 11:18,arup-global-shared-dev-test,AWS
+us-west-2,running,aws-uw2-prod-az-riski-01,linux,FALSE,"[""atr-sf""]",34.219.163.190,10.0.1.20,11/02/2021 11:18,arup-amx-atr-dev-test,AWS
+us-west-2,running,aws-uw2-pr-az-svs-01,linux,FALSE,"[""atr-sf""]",52.27.53.30,10.0.1.163,11/02/2021 11:18,arup-amx-atr-dev-test,AWS
+eu-west-1,stopped,awbastiont01,linux,FALSE,"[""luminairebroker-bastion-key""]",54.246.199.138,10.0.101.44,11/02/2021 11:19,arup-ukimea-lighting-dev-test,AWS
+eu-west-1,running,new-abos-test-eks-cluster-ng-a271b431-Node,linux,FALSE,,108.129.71.159,192.168.28.117,09/12/2024 04:36,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,running,main,linux,FALSE,,54.229.62.206,172.31.1.60,05/02/2025 20:25,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,running,new-abos-test-eks-cluster-ng-a271b431-Node,linux,FALSE,,3.252.217.145,192.168.68.60,09/12/2024 04:36,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,running,thingsboard,linux,TRUE,"[""pi-dev""]",34.247.61.115,172.31.44.127,01/12/2021 21:29,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,running,new-abos-test-eks-cluster-ng-a271b431-Node,linux,FALSE,,3.248.232.153,192.168.42.36,09/12/2024 04:36,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,running,london-desks,linux,FALSE,"[""ben-dev""]",54.75.130.60,172.31.28.181,22/12/2023 12:07,arup-ukimea-ade-pi-dev-test,AWS
+eu-west-1,pending,aws-ew1-dd-mw-vs178-01,windows,FALSE,"[""windows_agent""]",3.254.158.241,10.0.2.184,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,aws-ew1-dd-mw-rhino-01,windows,FALSE,"[""windows_agent""]",34.254.223.31,10.0.2.200,26/11/2024 14:53,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,aws-ew1-dd-mw-ran-01,windows,FALSE,"[""windows_agent""]",34.243.59.134,10.0.2.83,24/08/2023 08:43,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",34.253.225.118,10.0.2.38,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",34.244.75.32,10.0.2.202,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,gsapy-com-01,windows,FALSE,"[""windows_agent""]",34.255.191.177,10.0.2.32,31/01/2025 03:54,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,aws-ew1-dd-mw-amd-01,windows,FALSE,"[""windows_agent""]",34.242.162.137,10.0.2.215,06/02/2025 00:02,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github-runner-intel,windows,FALSE,"[""windows_agent""]",52.30.245.81,10.0.2.238,02/04/2024 06:50,arup-global-oasys-automation-prod,AWS
+eu-west-1,pending,aws-ew1-dd-mw-vs178-01,windows,FALSE,"[""windows_agent""]",3.249.214.160,10.0.2.203,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",34.245.189.209,10.0.2.119,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github-gsa-latest-intel-runner,windows,FALSE,"[""github-selfhosted-runner""]",46.137.46.132,10.0.2.131,16/12/2024 14:10,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github_gsapy_latest_intel_runner,windows,FALSE,"[""github-selfhosted-runner""]",3.255.132.73,10.0.3.152,10/01/2025 10:35,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",3.253.155.206,10.0.2.126,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github-runner-amd,windows,TRUE,"[""windows_agent""]",3.254.211.15,10.0.2.169,04/10/2024 10:12,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github_gsa_latest_amd_runner,windows,TRUE,"[""github_runner_agent""]",18.201.171.177,10.0.2.100,16/12/2024 14:10,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,github_gsapy_latest_intel_runner_latest,windows,FALSE,"[""github-selfhosted-runner""]",34.247.13.61,10.0.2.153,21/01/2025 09:12,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",63.32.89.190,10.0.2.205,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,aws-ew1-dd-mw-amd-01,windows,FALSE,"[""windows_agent""]",34.252.204.134,10.0.2.241,06/02/2025 00:02,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",54.216.28.130,10.0.2.210,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",52.215.94.228,10.0.2.26,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",52.19.0.212,10.0.2.101,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+eu-west-1,running,vs17-11,windows,FALSE,"[""windows_agent""]",54.154.243.97,10.0.2.36,05/02/2025 22:27,arup-global-oasys-automation-prod,AWS
+ap-southeast-2,running,RPL_HongKong,linux,FALSE,"[""CFD_HongKong_202409""]",3.104.142.177,172.20.3.180,12/09/2024 23:43,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,STACK-MEL02-ZONEB,linux,FALSE,"[""CFD_key_2023-06""]",54.66.120.61,172.20.2.194,25/11/2024 03:44,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,AT-MEL1-EXTENSION,linux,FALSE,"[""CFD_key_2023-06""]",54.253.32.232,172.20.1.81,30/07/2024 21:56,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,NEXTDC-P1-S2,linux,FALSE,"[""CFD_key_2023-06""]",13.210.101.16,172.20.1.211,21/10/2024 04:40,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,cloud9-Sina,linux,FALSE,,13.211.101.254,172.20.2.159,12/05/2022 04:59,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,GOODMAN-PLUTO,linux,FALSE,"[""CFD_key_2023-06""]",54.253.126.102,172.20.3.184,25/11/2024 03:44,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,shiraz5,linux,FALSE,"[""CFD_key_2023-06""]",3.25.2.238,172.20.1.7,15/11/2024 02:11,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,Callister,linux,FALSE,"[""CFD_key_2023-06""]",54.252.131.205,172.20.1.169,13/05/2024 00:41,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,STACK-MEL02-ZONEA,linux,FALSE,"[""CFD_key_2023-06""]",3.104.222.6,172.20.1.107,17/11/2024 22:49,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,KL1,linux,FALSE,"[""CFD_key_2023-06""]",13.237.87.97,172.20.1.57,14/09/2023 00:24,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,Graphics_1,linux,FALSE,"[""CFD_key_2023-06""]",52.63.46.58,172.20.1.235,16/08/2024 03:57,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,gCUB2.0,linux,FALSE,"[""CFD_key_2023-06""]",13.237.243.239,172.20.1.80,01/05/2024 06:20,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,NDC_M3,linux,FALSE,"[""cfd_key_2025-1""]",52.64.238.124,172.20.2.144,04/02/2025 22:48,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,stopped,Graphics_3,linux,FALSE,"[""CFD_key_2023-06""]",54.79.146.127,172.20.2.220,16/08/2024 03:57,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,Graphics_2,linux,FALSE,"[""CFD_key_2023-06""]",13.236.13.190,172.20.3.44,16/08/2024 03:57,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,SYD05,linux,FALSE,"[""CFD_key_2023-06""]",3.24.54.181,172.20.1.102,04/06/2024 06:15,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,Compute,linux,FALSE,,54.252.151.138,172.20.103.238,05/02/2025 13:18,arup-au-sydney-cfd-prod,AWS
+ap-southeast-2,running,AT-MEL2-EXTERNAL,linux,FALSE,"[""CFD_key_2023-06""]",3.24.161.197,172.20.1.251,28/08/2024 09:46,arup-au-sydney-cfd-prod,AWS
+eu-west-1,running,bastion_2023_02,linux,FALSE,"[""Bastion_2023_02""]",54.246.26.39,172.25.0.79,08/08/2023 15:08,arup-eur-ade-isolated-prod,AWS
+eu-west-1,running,oxygen-camera-poller,linux,FALSE,"[""Bastion_2021_01""]",54.170.122.170,172.25.0.86,06/12/2021 10:53,arup-eur-ade-isolated-prod,AWS
+eu-west-1,running,awbastionp01,linux,FALSE,"[""luminairebroker-bastion-key""]",52.209.204.51,10.0.101.15,11/02/2021 11:21,arup-ukimea-luminairebroker-prod,AWS
+eu-west-1,running,databasedump,linux,FALSE,,54.229.203.164,10.0.102.208,08/05/2024 08:57,arup-ukimea-luminairebroker-prod,AWS
+eu-west-1,running,aws-ew1-pr-ub-busconsole-01-prodmvp,linux,FALSE,"[""aws-eb""]",3.252.132.189,10.0.1.95,03/02/2025 14:09,arup-digital-bus-method-prod,AWS
+eu-west-1,running,i-0e515c2cdd04f14af,linux,FALSE,"[""pg-temp""]",3.249.219.116,10.0.1.91,10/01/2022 13:00,arup-global-speckle-prod,AWS
+eu-west-2,running,i-04d226dd6aad10e0f,linux,FALSE,"[""pg""]",18.133.231.221,10.0.1.185,10/11/2021 22:03,arup-global-speckle-prod,AWS
+eu-west-1,stopped,WekanServer,linux,FALSE,"[""WekanServerKey""]",52.30.214.15,10.119.7.56,22/04/2024 16:43,arup-ukimea-tcs-dev-test,AWS
+eu-west-1,running,DDB Runner,linux,FALSE,"[""ddb-runner""]",3.255.94.236,10.119.5.12,11/02/2021 11:22,arup-ukimea-nwy-devopps-prod,AWS
+eu-west-1,running,DDB Runner 2,linux,FALSE,"[""ddb-runner-2""]",54.228.8.150,10.119.5.11,11/02/2021 11:22,arup-ukimea-nwy-devopps-prod,AWS
+eu-west-1,running,ParkeerRadar_CentOS,linux,TRUE,"[""ParkeerRadar-key""]",34.255.61.236,10.119.3.84,11/02/2021 11:23,arup-eur-ams-digital-prod,AWS
+eu-west-1,running,dwh-bastion-vpc-dev,linux,FALSE,"[""dwh-bastion""]",52.19.150.147,10.0.1.150,30/08/2023 13:57,arup-eur-ams-digital-prod,AWS
+eu-west-1,running,aws-ew1-pr-ub-monitor-01,linux,FALSE,"[""aws-arup-ams""]",108.128.31.254,10.119.3.168,11/02/2021 11:23,arup-eur-ams-digital-prod,AWS
+eu-west-1,running,dwh-bastion,linux,FALSE,"[""dwh-bastion""]",34.240.194.94,10.119.3.17,30/08/2023 12:24,arup-eur-ams-digital-prod,AWS
+eu-west-2,running,aws-ew2-prod-air-peru,linux,FALSE,"[""aws-ew2-bastion-air-peru""]",18.170.118.160,10.0.2.98,11/02/2021 11:22,arup-eur-ams-digital-prod,AWS
+eu-west-1,running,eurawsfpt101,windows,FALSE,"[""UKIMEA-Server""]",108.128.145.146,10.119.0.9,11/02/2021 11:23,arup-ukimea-shared-prod,AWS
+eu-west-1,stopped,awunrealp01,windows,FALSE,"[""awunrealp01-key""]",52.51.67.130,10.119.1.49,17/11/2021 11:18,arup-ukimea-hpc-shared-prod,AWS
+eu-west-1,stopped,HPC_test_machine,linux,FALSE,"[""lalith""]",52.215.197.143,10.119.1.59,23/01/2023 17:37,arup-ukimea-hpc-shared-prod,AWS
+ap-southeast-2,running,rhino-compute-ecs-known-escargot,windows,FALSE,"[""jo-prod-internal""]",13.211.172.214,10.122.50.34,18/12/2024 12:14,Aus Digital,AWS
+ap-southeast-2,running,gh-actions-win-splendid-hare,windows,FALSE,"[""jo-prod-internal""]",3.107.102.60,10.122.49.90,05/02/2025 22:09,Aus Digital,AWS
+ap-southeast-2,running,rhino-compute-ecs-known-escargot,windows,FALSE,"[""jo-prod-internal""]",54.206.122.191,10.122.49.26,18/12/2024 12:14,Aus Digital,AWS
+ap-southeast-2,running,rhino-compute-ecs-known-escargot,windows,FALSE,"[""jo-prod-internal""]",54.206.77.152,10.122.52.146,18/12/2024 12:14,Aus Digital,AWS
+us-east-1,running,wordpress,linux,TRUE,"[""wordpress""]",34.201.152.36,10.122.177.67,11/02/2021 11:24,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-ecm-tool-pub,linux,FALSE,"[""ecm-db-key""]",54.197.70.196,10.122.179.70,18/08/2021 14:48,AMX Digital,AWS
+us-east-1,running,aws-ue1-dd-ub-postgres2,linux,FALSE,"[""065220-keypairs""]",23.22.22.151,10.122.179.241,11/02/2021 11:24,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-3d-01,linux,FALSE,"[""S-F-ATR""]",54.172.222.99,10.122.177.115,11/02/2021 11:24,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-ca-metadata,linux,FALSE,"[""065220-keypairs""]",35.175.217.233,10.122.179.204,11/02/2021 11:24,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-ecm-tool,linux,FALSE,"[""ecm-db-key""]",3.92.65.156,10.122.178.56,18/08/2021 14:48,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-lirr-api,linux,FALSE,"[""065220-keypairs""]",52.71.125.160,10.122.177.11,11/02/2021 11:24,AMX Digital,AWS
+us-east-1,running,aws-ue1-dev-ax-energy-mongo,linux,FALSE,"[""mongo""]",34.205.142.151,10.122.179.24,09/11/2021 17:15,AMX Digital,AWS
+us-east-1,running,aws-ue1-pr-az-snappy-name,linux,FALSE,"[""snappy-key""]",52.55.119.20,10.122.177.163,18/08/2021 14:48,AMX Digital,AWS
+ap-southeast-2,running,production.snapshot.arup.digital,linux,FALSE,"[""SNAPSHOT-PROD""]",13.210.33.149,10.1.101.56,15/03/2023 07:14,arup-au-ade-shared-external,AWS
+ap-southeast-2,running,mfleming-rescuebox,linux,FALSE,"[""SNAPSHOT-PROD-2""]",13.211.206.230,10.1.101.210,18/10/2024 05:21,arup-au-ade-shared-external,AWS
+ap-southeast-2,running,lyra-api,linux,FALSE,"[""lyra-prod-key""]",3.106.133.102,10.1.103.87,04/10/2024 02:37,arup-au-ade-shared-external,AWS
+eu-west-1,running,i-03416a7a1cea0ddb4,linux,FALSE,,34.244.125.27,10.0.3.110,31/01/2025 16:51,arup-global-test,AWS
+eu-west-1,running,i-08f98a17c33d33150,linux,FALSE,,3.252.66.214,10.0.2.47,31/01/2025 16:51,arup-global-test,AWS
+eu-west-1,running,i-0dc74e96be4ad6c68,linux,FALSE,,18.202.226.85,10.0.3.131,31/01/2025 16:51,arup-global-test,AWS
+eu-west-1,running,aws-ew1-pr-mw-idrcollector-03,windows,FALSE,"[""Cyber-Team""]",46.137.59.101,10.122.96.99,03/11/2021 10:59,arup-aws-security-logs,AWS
+eu-west-1,running,aws-ew1-pr-ux-nessus-01,linux,TRUE,"[""Cyber-Team""]",63.33.222.128,10.122.96.5,23/09/2021 05:02,arup-aws-security-logs,AWS
+eu-west-1,running,aws-ew1-poc-awslinux-epo2,linux,FALSE,"[""epo-keypair-test""]",52.16.128.24,10.122.97.161,23/09/2021 05:02,arup-aws-security-logs,AWS
+eu-west-1,running,aws-ew1-pr-win-picus-internet,windows,FALSE,"[""Cyber-Team""]",3.248.135.116,10.122.96.77,28/04/2023 09:58,arup-aws-security-logs,AWS
+eu-west-1,running,SOC Automation Prod,linux,FALSE,"[""Ivan-CyberTeam""]",3.248.220.90,172.31.20.20,05/12/2022 10:02,arup-aws-security-logs,AWS
+eu-west-1,stopped,aws-ew1-pr-mw-gophish-01,windows,FALSE,"[""Cyber-Team""]",52.50.21.148,10.122.96.114,23/09/2021 05:02,arup-aws-security-logs,AWS
+eu-west-1,running,aws-ew1-pr-mw-fresponse,windows,FALSE,"[""Cyber-Team""]",18.203.151.34,10.122.96.225,23/09/2021 05:02,arup-aws-security-logs,AWS
+ap-southeast-2,running,prod-ansible-sso,linux,FALSE,"[""Ansible Automation Hub SSH Key""]",54.206.45.55,10.124.0.26,19/01/2022 04:29,arup-management-master,AWS
+ap-southeast-2,running,prod-ap-ansible-tower,linux,FALSE,"[""Ansible Automation Hub SSH Key""]",54.79.57.187,10.124.0.13,30/09/2021 02:11,arup-management-master,AWS
+ap-southeast-2,running,ansible-automation-hub-prod,linux,FALSE,"[""Ansible Automation Hub SSH Key""]",54.66.125.23,10.124.0.4,06/10/2021 07:04,arup-management-master,AWS
+ap-southeast-2,running,awsdevops,linux,FALSE,"[""AWSOpsHost SSH Key""]",3.26.26.147,10.124.0.40,16/02/2023 04:19,arup-management-master,AWS
+eu-west-1,running,aweurlhbkp,linux,FALSE,"[""arup-lightHouse-key""]",52.49.70.40,10.119.13.58,21/08/2024 14:43,arup-management-master,AWS
+eu-west-1,running,eu-execution-environment,linux,FALSE,"[""Ansible Automation Hub SSH Key""]",54.78.41.237,10.119.13.147,17/11/2021 07:56,arup-management-master,AWS
+eu-west-1,running,aweurlhbkp-test3,linux,FALSE,"[""arup-lightHouse-key""]",54.171.63.74,10.119.13.36,20/09/2024 11:03,arup-management-master,AWS
+ap-northeast-1,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""ITGNetworks-EAR""]",54.65.13.80,100.64.127.251,11/02/2021 11:25,arup-networking,AWS
+ap-northeast-1,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""ITGNetworks-EAR""]",13.114.145.79,100.64.127.231,11/02/2021 11:25,arup-networking,AWS
+ap-southeast-2,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""ITGNetworks-AUS""]",13.237.101.120,100.64.127.234,11/02/2021 11:26,arup-networking,AWS
+ap-southeast-2,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""ITGNetworks-AUS""]",13.238.234.65,100.64.127.246,11/02/2021 11:26,arup-networking,AWS
+ca-central-1,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""ITGNetworks-AMX""]",52.60.36.136,100.64.127.233,11/02/2021 11:25,arup-networking,AWS
+ca-central-1,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""ITGNetworks-AMX""]",52.60.161.103,100.64.127.244,11/02/2021 11:25,arup-networking,AWS
+eu-west-1,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""ITGNetworks-IRE""]",52.212.142.232,100.64.127.244,11/02/2021 11:25,arup-networking,AWS
+eu-west-1,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""ITGNetworks-IRE""]",52.212.144.235,100.64.127.236,11/02/2021 11:25,arup-networking,AWS
+eu-west-2,stopped,Transit VPC CSR2,linux,TRUE,"[""ITGNetworks-LON""]",18.132.138.15,100.64.127.244,17/02/2022 09:25,arup-networking,AWS
+eu-west-2,stopped,Transit VPC CSR1,linux,TRUE,"[""ITGNetworks-LON""]",18.132.170.19,100.64.127.234,21/02/2022 18:48,arup-networking,AWS
+us-east-1,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""ITGNetworks-AMX""]",54.84.157.32,100.64.127.231,11/02/2021 11:25,arup-networking,AWS
+us-east-1,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""ITGNetworks-AMX""]",34.204.158.226,100.64.127.253,11/02/2021 11:25,arup-networking,AWS
+us-west-1,stopped,Transit VPC CSR1 - latest,linux,TRUE,"[""AMX-ITGNetworks-NCALI""]",52.52.255.28,100.64.127.238,11/02/2021 11:25,arup-networking,AWS
+us-west-1,stopped,Transit VPC CSR2 - latest,linux,TRUE,"[""AMX-ITGNetworks-NCALI""]",52.53.72.143,100.64.127.249,11/02/2021 11:25,arup-networking,AWS
+eu-west-2,running,QA-Kliima,linux,FALSE,"[""qa-kliima""]",18.132.20.26,172.31.18.38,14/02/2023 17:54,arup-ukimea-climate-toolkit-prod,AWS
+eu-west-2,stopped,kliima-stage,linux,FALSE,"[""kliima-second""]",18.133.109.38,172.31.28.72,19/08/2021 04:41,arup-ukimea-climate-toolkit-prod,AWS
+eu-west-2,stopped,arup-cdt,linux,FALSE,"[""new_key""]",18.135.149.141,172.31.21.106,19/08/2021 04:41,arup-ukimea-climate-toolkit-prod,AWS
+eu-west-1,running,ams-digital-air-prod-bastion,linux,FALSE,"[""ams-digital-air-bastion""]",54.78.245.202,10.0.1.128,20/08/2021 22:22,arup-eur-ams-digital-air-prod,AWS
+eu-west-2,running,ams-digital-air-london-prod-bastion,linux,FALSE,"[""ams-digital-air-london-bastion""]",13.40.56.139,10.0.1.228,01/03/2022 07:51,arup-eur-ams-digital-air-prod,AWS
+eu-west-2,stopped,Windows-MM,windows,FALSE,"[""mm-keypair""]",18.170.175.56,10.119.64.21,25/08/2021 05:24,arup-ukimea-transport-mm-prod,AWS
+ukwest,running,ArupSpeckleVM,linux,,,51.141.100.102,10.0.0.4,13/10/2021 12:06,Arup-IT-UKMEA-Shared-PR,AZURE_ARM
+westeurope,running,CIA-WIN-10,windows,,,52.166.174.137,10.3.0.4,14/10/2021 10:17,DW-DEV,AZURE_ARM
+westeurope,running,devops-host-1,windows,,,20.160.33.139,10.0.0.4,23/10/2024 01:31,DW-DEV,AZURE_ARM
+northeurope,deallocated,eu-nessus-vm1,linux,,,52.178.209.11,10.0.0.4,13/10/2021 12:19,ITG Gateways,AZURE_ARM
+southeastasia,deallocated,RhinoCompute,windows,,,172.188.44.130,10.0.0.4,01/10/2024 04:14,BIM Design,AZURE_ARM
+ukwest,running,isa-bastion,linux,,,20.254.155.157,10.0.1.4,01/12/2022 16:33,BIM Design,AZURE_ARM
+westeurope,running,isa-postprocessor,windows,,,20.224.192.155,10.1.0.4,31/10/2023 16:02,BIM Design,AZURE_ARM
+swedencentral,deallocated,UpdateManualTesting2,windows,,,51.12.250.92,10.0.0.4,07/12/2023 17:25,ITG Automation,AZURE_ARM
+eastasia,running,tda-pipeline-agent-uat-test,linux,,,20.205.131.175,10.1.0.4,04/09/2024 06:28,arup-it-uat,AZURE_ARM
+eastus,deallocated,LLM-VM,linux,,,172.210.28.231,10.1.0.4,17/12/2024 04:26,arup-it-uat,AZURE_ARM
+northeurope,deallocated,azieatmonsu01,windows,,,23.100.60.86,10.251.87.5,17/08/2023 07:53,arup-it-uat,AZURE_ARM
+uksouth,running,azoasyswebu01,linux,,,51.143.232.247,10.126.80.212,05/10/2024 02:00,arup-it-uat,AZURE_ARM
+australiaeast,running,az-aue-cc01,linux,,,20.92.251.229,10.61.129.20,02/07/2024 11:09,arup-it-core,AZURE_ARM
+australiaeast,running,az-aue-cc02,linux,,,20.11.19.190,10.61.129.21,02/07/2024 11:38,arup-it-core,AZURE_ARM
+australiaeast,running,az-au-sy-csr-vm-01,linux,,,20.70.200.216,10.61.130.20,25/01/2023 09:28,arup-it-core,AZURE_ARM
+australiaeast,running,az-au-sy-csr-vm-02,linux,,,40.82.213.40,10.61.130.21,25/01/2023 09:28,arup-it-core,AZURE_ARM
+australiasoutheast,running,az-ause-cc01,linux,,,52.158.135.66,10.61.1.20,04/07/2024 14:30,arup-it-core,AZURE_ARM
+australiasoutheast,running,az-ause-cc02,linux,,,13.70.149.47,10.61.1.21,04/07/2024 14:30,arup-it-core,AZURE_ARM
+australiasoutheast,running,az-au-vi-csr-vm-01,linux,,,13.77.60.6,10.61.2.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+australiasoutheast,running,az-au-vi-csr-vm-02,linux,,,52.189.223.121,10.61.2.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+canadacentral,deallocated,az-ca-cc-csr-vm-01,linux,,,20.151.237.140,10.187.2.20,22/02/2023 10:21,arup-it-core,AZURE_ARM
+canadacentral,deallocated,az-ca-cc-csr-vm-02,linux,,,4.206.202.156,10.187.2.21,22/02/2023 10:21,arup-it-core,AZURE_ARM
+canadacentral,running,az-cac-cc01,linux,,,4.172.249.163,10.187.1.20,29/05/2024 10:59,arup-it-core,AZURE_ARM
+canadacentral,running,az-cac-cc02,linux,,,20.220.16.212,10.187.1.21,29/05/2024 11:29,arup-it-core,AZURE_ARM
+canadaeast,deallocated,az-ca-ce-csr-vm-01,linux,,,20.220.90.157,10.187.130.20,31/01/2023 15:46,arup-it-core,AZURE_ARM
+canadaeast,deallocated,az-ca-ce-csr-vm-02,linux,,,20.104.134.235,10.187.130.21,22/02/2023 12:55,arup-it-core,AZURE_ARM
+canadaeast,pending,az-cae-cc01,linux,,,4.239.107.209,10.187.129.20,29/05/2024 13:04,arup-it-core,AZURE_ARM
+canadaeast,running,az-cae-cc02,linux,,,4.248.54.191,10.187.129.21,29/05/2024 13:04,arup-it-core,AZURE_ARM
+eastasia,running,az-ea-hk-csr-vm-01,linux,,,13.94.58.151,10.205.2.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+eastasia,running,az-ea-hk-csr-vm-02,linux,,,13.75.117.166,10.205.2.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+eastasia,running,az-ea-cc01,linux,,,52.139.152.233,10.205.1.68,09/09/2024 08:38,arup-it-core,AZURE_ARM
+eastasia,running,az-ea-cc02,linux,,,20.205.129.79,10.205.1.69,09/09/2024 08:38,arup-it-core,AZURE_ARM
+eastus,deallocated,az-us-eus-csr-vm-01,linux,,,172.174.163.182,10.191.2.20,28/02/2023 14:59,arup-it-core,AZURE_ARM
+eastus,deallocated,az-us-eus-csr-vm-02,linux,,,74.235.120.90,10.191.2.21,28/02/2023 14:59,arup-it-core,AZURE_ARM
+eastus,running,az-eus-cc01,linux,,,74.235.83.24,10.191.1.20,24/05/2024 10:41,arup-it-core,AZURE_ARM
+eastus,running,az-eus-cc02,linux,,,20.127.216.45,10.191.1.21,24/05/2024 10:41,arup-it-core,AZURE_ARM
+japaneast,running,ea-csr-jpn-vm1,linux,,,13.78.48.118,10.203.15.4,13/10/2021 12:03,arup-it-core,AZURE_ARM
+japaneast,running,az-jpe-cc01,linux,,,74.226.160.38,10.203.1.68,26/07/2024 12:08,arup-it-core,AZURE_ARM
+japaneast,running,az-jpe-cc02,linux,,,4.215.197.8,10.203.1.69,26/07/2024 13:07,arup-it-core,AZURE_ARM
+northcentralus,running,az-us-nc-csr-vm-01,linux,,,23.96.224.53,10.190.2.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northcentralus,running,az-us-nc-csr-vm-02,linux,,,23.96.226.18,10.190.2.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northcentralus,running,az-ncus-cc01,linux,,,20.25.198.190,10.190.1.20,28/05/2024 10:44,arup-it-core,AZURE_ARM
+northcentralus,running,az-ncus-cc02,linux,,,172.214.198.38,10.190.1.21,28/05/2024 11:15,arup-it-core,AZURE_ARM
+northeurope,running,az-eu-du-csr-vm-01,linux,,,40.113.36.88,10.251.2.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northeurope,running,az-eu-du-csr-vm-02,linux,,,20.54.82.125,10.251.2.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northeurope,deallocated,eu-csr-du-vm1,linux,,,52.158.40.106,10.251.251.4,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northeurope,deallocated,eu-csr-du-vm2,linux,,,52.158.33.75,10.251.251.5,13/10/2021 12:03,arup-it-core,AZURE_ARM
+northeurope,running,az-neu-cc01,linux,,,98.71.12.157,10.251.1.20,23/05/2024 08:49,arup-it-core,AZURE_ARM
+northeurope,running,az-neu-cc02,linux,,,20.123.92.69,10.251.1.21,23/05/2024 09:22,arup-it-core,AZURE_ARM
+southafricanorth,running,az-af-san-csr-vm-01,linux,,,102.37.22.191,10.95.2.20,24/02/2023 11:02,arup-it-core,AZURE_ARM
+southafricanorth,running,az-af-san-csr-vm-02,linux,,,102.37.149.244,10.95.2.21,24/02/2023 11:02,arup-it-core,AZURE_ARM
+southafricanorth,running,az-san-cc01,linux,,,4.222.185.124,10.95.1.68,27/06/2024 10:45,arup-it-core,AZURE_ARM
+southafricanorth,pending,az-san-cc02,linux,,,40.127.12.83,10.95.1.69,27/06/2024 10:45,arup-it-core,AZURE_ARM
+southafricawest,running,az-af-saw-csr-vm-01,linux,,,40.117.9.244,10.95.130.20,14/03/2024 12:55,arup-it-core,AZURE_ARM
+southafricawest,running,az-af-saw-csr-vm-02,linux,,,40.117.9.217,10.95.130.21,14/03/2024 12:55,arup-it-core,AZURE_ARM
+southafricawest,running,az-saw-cc01,linux,,,172.209.17.91,10.95.129.68,26/06/2024 11:45,arup-it-core,AZURE_ARM
+southafricawest,running,az-saw-cc02,linux,,,172.209.16.65,10.95.129.69,26/06/2024 12:14,arup-it-core,AZURE_ARM
+southcentralus,running,az-us-sc-csr-vm-01,linux,,,104.215.97.253,10.190.130.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southcentralus,running,az-us-sc-csr-vm-02,linux,,,104.215.83.156,10.190.130.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southcentralus,running,az-us-sc-ftd-vm01,linux,,,52.152.26.177,10.190.130.69,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southcentralus,running,az-us-sc-ftd-vm02,linux,,,52.152.26.138,10.190.130.70,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southcentralus,running,az-scus-cc01,linux,,,40.124.140.135,10.190.129.20,28/05/2024 14:15,arup-it-core,AZURE_ARM
+southcentralus,running,az-scus-cc02,linux,,,20.64.86.29,10.190.129.21,11/06/2024 06:22,arup-it-core,AZURE_ARM
+southeastasia,running,az-ea-sin-csr-vm-01,linux,,,20.195.42.244,10.205.130.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southeastasia,running,az-ea-sin-csr-vm-02,linux,,,20.198.168.129,10.205.130.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+southeastasia,running,az-sea-cc01,linux,,,20.6.88.246,10.205.129.20,30/08/2024 09:03,arup-it-core,AZURE_ARM
+southeastasia,running,az-sea-cc02,linux,,,20.212.233.68,10.205.129.21,30/08/2024 10:02,arup-it-core,AZURE_ARM
+uksouth,running,az-uk-sl-csr-vm-01,linux,,,51.11.187.204,10.126.2.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+uksouth,running,az-uk-sl-csr-vm-02,linux,,,51.11.187.226,10.126.2.26,13/10/2021 12:03,arup-it-core,AZURE_ARM
+uksouth,running,az-uks-cc01,linux,,,172.187.208.29,10.126.1.20,11/06/2024 13:19,arup-it-core,AZURE_ARM
+uksouth,running,az-uks-cc02,linux,,,172.187.88.98,10.126.1.21,11/06/2024 13:52,arup-it-core,AZURE_ARM
+ukwest,running,az-uk-np-csr-vm-01,linux,,,51.141.47.216,10.126.130.20,13/10/2021 12:03,arup-it-core,AZURE_ARM
+ukwest,running,az-uk-np-csr-vm-02,linux,,,51.140.230.10,10.126.130.21,13/10/2021 12:03,arup-it-core,AZURE_ARM
+ukwest,running,az-ukw-cc01,linux,,,51.141.79.8,10.126.129.20,12/06/2024 11:07,arup-it-core,AZURE_ARM
+ukwest,running,az-ukw-cc02,linux,,,51.141.67.55,10.126.129.21,12/06/2024 11:07,arup-it-core,AZURE_ARM
+westeurope,running,az-eu-am-csr-vm-01,linux,,,20.56.26.249,10.251.130.20,26/03/2022 00:44,arup-it-core,AZURE_ARM
+westeurope,running,az-eu-am-csr-vm-02,linux,,,51.136.114.141,10.251.130.21,26/03/2022 00:44,arup-it-core,AZURE_ARM
+westeurope,running,az-weu-cc01,linux,,,172.205.213.61,10.251.129.20,16/04/2024 13:45,arup-it-core,AZURE_ARM
+westeurope,running,az-weu-cc02,linux,,,51.136.110.13,10.251.129.21,16/04/2024 13:45,arup-it-core,AZURE_ARM
+westus,deallocated,az-us-wus-csr-vm-01,linux,,,40.86.162.101,10.191.130.20,01/03/2023 12:32,arup-it-core,AZURE_ARM
+westus,deallocated,az-us-wus-csr-vm-02,linux,,,40.83.179.165,10.191.130.21,01/03/2023 12:32,arup-it-core,AZURE_ARM
+westus,running,az-wus-cc01,linux,,,13.91.100.180,10.191.129.20,24/05/2024 14:45,arup-it-core,AZURE_ARM
+westus,running,az-wus-cc02,linux,,,13.83.81.4,10.191.129.21,24/05/2024 14:45,arup-it-core,AZURE_ARM
+australiacentral,deallocated,streetmix,linux,,,20.28.50.62,10.0.0.4,18/08/2024 15:44,arup-it-production-open,AZURE_ARM
+australiaeast,running,azasaauepvm01,linux,,,20.213.145.187,10.61.213.4,25/01/2023 09:57,arup-it-production-open,AZURE_ARM
+australiaeast,running,auseiccedge01,windows,,,20.211.85.145,10.61.218.4,06/06/2023 08:55,arup-it-production-open,AZURE_ARM
+australiaeast,running,azauspwgwyp101,windows,,,20.213.162.210,10.61.208.132,09/08/2023 12:25,arup-it-production-open,AZURE_ARM
+australiaeast,running,sbcedgeprodvm01,linux,,,20.213.16.204,10.61.217.4,24/04/2023 12:02,arup-it-production-open,AZURE_ARM
+australiaeast,running,auprodweb04,linux,,,20.213.119.224,10.61.223.107,11/08/2023 01:37,arup-it-production-open,AZURE_ARM
+australiasoutheast,running,azauseasavm01,linux,,,20.70.124.155,10.61.115.13,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+australiasoutheast,running,auseiccedge02,windows,,,20.190.103.49,10.61.117.4,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+australiasoutheast,running,aussbcaz01,linux,,,4.198.73.223,10.61.121.4,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+australiasoutheast,running,arupausseasa01,linux,,,20.11.136.124,10.61.115.12,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+canadacentral,running,bastion01,linux,,,4.172.208.228,10.0.3.4,19/11/2024 19:04,arup-it-production-open,AZURE_ARM
+centralindia,running,azcinasavm01,linux,,,20.235.106.64,10.192.1.12,07/07/2023 12:36,arup-it-production-open,AZURE_ARM
+eastasia,running,dtpprodvm01,windows,,,20.2.168.177,10.205.112.204,12/11/2024 14:22,arup-it-production-open,AZURE_ARM
+eastasia,running,azhkeaasa01,linux,,,20.2.192.146,10.205.112.45,08/11/2024 09:50,arup-it-production-open,AZURE_ARM
+eastasia,running,azhkeaasa02,linux,,,20.255.153.140,10.205.112.46,08/11/2024 09:50,arup-it-production-open,AZURE_ARM
+eastasia,running,azearpwgwyp101,windows,,,104.208.106.132,10.205.123.4,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+eastasia,running,earsbcaz01,linux,,,13.94.56.83,10.205.112.196,16/05/2024 21:57,arup-it-production-open,AZURE_ARM
+eastus,running,AZPCLDMGRUSC106,linux,,,20.169.232.249,10.191.111.13,14/01/2025 16:58,arup-it-production-open,AZURE_ARM
+eastus,running,azeusasavm01,linux,,,172.190.60.175,10.191.96.12,16/06/2023 14:57,arup-it-production-open,AZURE_ARM
+eastus,running,azeusasavm02,linux,,,172.191.209.105,10.191.96.13,02/10/2024 07:19,arup-it-production-open,AZURE_ARM
+japaneast,running,azasajpepvm01,linux,,,4.216.171.96,10.203.10.20,26/04/2023 06:35,arup-it-production-open,AZURE_ARM
+northcentralus,running,azncusasavm01,linux,,,172.214.233.32,10.190.125.12,02/10/2024 12:13,arup-it-production-open,AZURE_ARM
+northcentralus,running,azncusasavm02,linux,,,172.214.236.229,10.190.125.13,27/09/2024 15:20,arup-it-production-open,AZURE_ARM
+northcentralus,running,azamrpwgwyp101,windows,,,20.88.25.17,10.190.122.4,09/08/2023 12:25,arup-it-production-open,AZURE_ARM
+northeurope,deallocated,azieatmonsp01,windows,,,13.79.129.13,10.251.118.5,25/10/2023 07:30,arup-it-production-open,AZURE_ARM
+northeurope,running,azsmtpesa01,linux,,,13.79.128.76,10.251.123.4,29/04/2024 06:55,arup-it-production-open,AZURE_ARM
+northeurope,running,azsmtpesa02,linux,,,52.169.164.18,10.251.123.6,29/04/2024 07:48,arup-it-production-open,AZURE_ARM
+northeurope,running,arupneuasa01,linux,,,52.138.179.161,10.251.114.12,13/10/2021 12:19,arup-it-production-open,AZURE_ARM
+northeurope,running,twa-vm,windows,,,52.169.72.218,10.0.0.4,18/02/2022 12:54,arup-it-production-open,AZURE_ARM
+southafricanorth,running,azsanasavm01,linux,,,20.87.222.226,10.95.96.12,13/06/2023 11:53,arup-it-production-open,AZURE_ARM
+southeastasia,running,ausazsinany02,linux,,,13.76.193.10,10.5.0.4,26/08/2022 17:06,arup-it-production-open,AZURE_ARM
+southeastasia,running,earsbcaz02,linux,,,52.187.79.11,10.205.216.4,12/03/2024 10:27,arup-it-production-open,AZURE_ARM
+southeastasia,running,az-ea-sin-asa-vm-01,linux,,,20.191.153.68,10.205.209.76,13/10/2021 12:19,arup-it-production-open,AZURE_ARM
+uksouth,running,azasaukspvm01,linux,,,20.117.145.234,10.126.120.4,08/07/2022 02:56,arup-it-production-open,AZURE_ARM
+uksouth,deallocated,RescueVM,windows,,,172.167.229.62,10.2.0.4,16/12/2024 06:52,arup-it-production-open,AZURE_ARM
+uksouth,running,azpukskms01,windows,,,40.81.128.190,10.126.127.107,28/09/2024 02:09,arup-it-production-open,AZURE_ARM
+uksouth,running,eureiccedge01,windows,,,172.187.210.224,10.126.112.116,28/06/2023 02:43,arup-it-production-open,AZURE_ARM
+uksouth,deallocated,BackupVMBIM,windows,,,51.143.189.166,10.126.127.125,22/05/2024 06:52,arup-it-production-open,AZURE_ARM
+uksouth,running,azoasyswebp01,linux,,,20.77.154.97,10.126.113.212,13/10/2021 12:19,arup-it-production-open,AZURE_ARM
+uksouth,running,azeurpwgwyp101,windows,,,51.11.165.215,10.126.113.52,09/08/2023 13:21,arup-it-production-open,AZURE_ARM
+uksouth,running,ukssbcaz01,linux,,,20.90.75.176,10.126.114.116,14/09/2023 02:57,arup-it-production-open,AZURE_ARM
+uksouth,running,cicd-vm-prod,linux,,,51.145.98.9,10.0.3.4,12/03/2024 10:27,arup-it-production-open,AZURE_ARM
+uksouth,running,aznessusp01,linux,,,20.58.25.35,10.1.1.4,29/10/2021 14:36,arup-it-production-open,AZURE_ARM
+ukwest,running,eureiccedge02,windows,,,51.142.155.39,10.126.209.4,28/06/2023 04:09,arup-it-production-open,AZURE_ARM
+ukwest,running,ukwsbcaz01,linux,,,51.140.224.130,10.126.213.4,04/08/2023 06:25,arup-it-production-open,AZURE_ARM
+westus,running,azwusasavm01,linux,,,13.73.35.109,10.191.209.12,16/06/2023 13:34,arup-it-production-open,AZURE_ARM
+westus,running,azwusasavm02,linux,,,57.154.186.200,10.191.209.13,01/10/2024 15:01,arup-it-production-open,AZURE_ARM
+australiaeast,deallocated,azqeepdevapp01,windows,,,20.193.15.86,10.61.173.22,25/01/2023 09:17,arup-it-dev,AZURE_ARM
+canadacentral,running,bastion01,linux,,,4.204.8.249,10.0.3.4,19/09/2024 08:07,arup-it-dev,AZURE_ARM
+eastasia,running,centralsite3d03,windows,,,20.6.232.134,10.205.49.7,12/03/2024 09:50,arup-it-dev,AZURE_ARM
+eastasia,deallocated,centralsite3d04,windows,,,20.6.232.199,10.205.49.6,12/03/2024 09:50,arup-it-dev,AZURE_ARM
+eastasia,running,dtpdevvm01,windows,,,20.2.8.238,10.205.48.20,27/11/2024 07:08,arup-it-dev,AZURE_ARM
+eastus2,deallocated,vm-mm-server,windows,,,74.249.50.47,10.0.5.4,15/09/2024 01:59,arup-it-dev,AZURE_ARM
+northeurope,deallocated,azieatmonsd01,windows,,,74.234.64.90,10.251.54.5,05/07/2023 06:42,arup-it-dev,AZURE_ARM
+uksouth,running,bastion,linux,,,20.26.239.226,10.0.1.5,15/06/2023 10:54,arup-it-dev,AZURE_ARM
+uksouth,running,linux-bastion,linux,,,172.187.179.243,10.0.3.4,17/07/2023 10:51,arup-it-dev,AZURE_ARM
+uksouth,running,cicd-vm-dev,linux,,,172.167.195.26,10.0.3.4,19/01/2024 16:02,arup-it-dev,AZURE_ARM
+westeurope,deallocated,myVm,linux,,,68.219.180.12,10.0.0.8,08/09/2024 01:52,arup-it-dev,AZURE_ARM
+westeurope,deallocated,openfoam5,linux,,,20.86.150.4,10.0.0.13,20/09/2024 01:42,arup-it-dev,AZURE_ARM
+westeurope,deallocated,scottVM,linux,,,51.105.246.251,10.0.0.4,31/10/2023 08:56,arup-it-dev,AZURE_ARM
+australiasoutheast,running,ausdevopsagt01,linux,,,23.101.225.141,10.1.0.4,13/10/2021 13:02,arup-it-test,AZURE_ARM
+australiasoutheast,running,azausecrctest01,linux,,,13.73.111.195,10.61.77.252,08/01/2025 09:58,arup-it-test,AZURE_ARM
+eastasia,deallocated,dtptestvm01,windows,,,52.175.17.67,10.205.64.20,27/11/2024 06:23,arup-it-test,AZURE_ARM
+eastus,running,azeuscrctest01,linux,,,172.191.32.122,10.191.64.4,07/01/2025 13:44,arup-it-test,AZURE_ARM
+uksouth,running,azukscrctest01,linux,,,20.0.249.66,10.126.64.148,07/01/2025 15:09,arup-it-test,AZURE_ARM
+uksouth,deallocated,arup-cloud,linux,,,172.187.171.112,10.1.0.4,04/10/2024 01:59,arup-it-test,AZURE_ARM
+australiasoutheast,running,azpuniapps01,linux,,,13.70.189.9,10.61.47.7,16/10/2021 20:12,arup-it-sandpit,AZURE_ARM
+australiasoutheast,running,azchwvmss01,windows,,,52.243.92.42,10.1.1.4,05/11/2021 16:49,arup-it-sandpit,AZURE_ARM
+eastasia,running,jumpbox2,linux,,,20.255.63.117,10.1.0.5,05/10/2024 01:43,arup-it-sandpit,AZURE_ARM
+eastus,running,JanusServer,linux,,,13.92.131.192,10.0.0.4,16/10/2021 20:12,arup-it-sandpit,AZURE_ARM
+northcentralus,running,arup-necc-dbeaver-dev-vm,linux,,,172.214.133.224,10.0.0.4,25/07/2024 20:51,arup-it-sandpit,AZURE_ARM
+uksouth,running,ubuntu-vm,linux,,,20.0.123.139,10.0.0.4,26/01/2024 13:25,arup-it-sandpit,AZURE_ARM
+uksouth,deallocated,ac-devb-01-vm,windows,,,172.167.130.2,10.0.0.4,20/09/2024 01:44,arup-compute,AZURE_ARM
+eu-west-1,running,Bastion Host,linux,FALSE,"[""pi-prod""]",34.244.70.195,10.0.2.153,04/01/2025 15:28,arup-ukimea-pi-prod,AWS
+eu-west-1,running,Portainer,linux,FALSE,"[""pi-prod""]",34.253.252.43,10.0.2.134,14/01/2025 07:51,arup-ukimea-pi-prod,AWS
+eu-west-1,running,powerquery_gateway,windows,FALSE,"[""powerquery_gateway""]",3.252.189.25,10.0.1.141,23/06/2023 08:48,arup-ukimea-ddb-prod,AWS
+eu-west-1,stopped,HERMES,windows,FALSE,"[""Graffica""]",18.203.150.232,10.0.1.130,24/01/2022 11:38,arup-ukimea-mes-rsvt-dev-test,AWS
+eu-west-2,running,i-0dfb70482c9d06edd,linux,FALSE,"[""db-bastion-tim-kvp""]",35.179.153.8,10.0.1.219,05/02/2025 08:02,arup-ukimea-giraffe-prod,AWS
+us-east-1,running,i-01d64da5aad9b612a,linux,FALSE,,54.174.83.177,10.123.68.21,05/10/2024 18:46,arup-amr-ade-apps-prod,AWS
+us-east-1,running,aws-ue1-pr-az-dmm,linux,FALSE,"[""065220-amr-ade-apps-prod""]",184.72.83.65,10.123.68.13,14/06/2022 18:19,arup-amr-ade-apps-prod,AWS
+us-east-1,running,aws-ue1-dd-az-dmm,linux,FALSE,"[""065220-amr-ade-apps-prod""]",3.82.51.11,10.123.68.10,23/05/2022 19:15,arup-amr-ade-apps-prod,AWS
+eu-west-1,running,dhub-infra-bastion,linux,FALSE,"[""dhub-bastion""]",3.255.199.82,10.0.102.154,27/09/2024 01:52,arup-ukimea-dhub-prod,AWS
+eu-west-1,stopped,HeadNode-EQX-AM6P5-BER,linux,FALSE,"[""cfd-berlin-key""]",108.128.247.147,10.0.101.200,03/02/2025 10:49,arup-eur-irl-cfd-prod,AWS
+eu-west-1,stopped,NTT-FRA4 HeadNode,linux,FALSE,"[""cfd-berlin-key""]",108.128.164.170,10.0.1.107,08/03/2024 09:48,arup-eur-irl-cfd-prod,AWS
+eu-west-1,stopped,HeadNode-QTS-Rhodes,linux,FALSE,"[""cfd_irl_key_2022""]",34.240.206.7,10.0.101.83,06/11/2024 19:18,arup-eur-irl-cfd-prod,AWS
+eu-west-1,stopped,HeadNode-NTT-FRA3,linux,FALSE,"[""cfd-berlin-key""]",34.240.77.189,10.0.101.53,30/04/2024 16:08,arup-eur-irl-cfd-prod,AWS
+ap-southeast-1,stopped,KK,linux,FALSE,"[""cfd-kt3-key""]",13.214.238.146,10.88.1.5,26/09/2024 05:33,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,stopped,CR209,linux,FALSE,"[""cfd-kt3-key""]",18.142.220.189,10.88.1.22,12/06/2024 06:50,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,stopped,CR111,linux,FALSE,"[""cfd-kt3-key""]",54.255.119.41,10.88.1.17,19/05/2024 13:45,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,running,awcdfgraphics,linux,FALSE,"[""ear-cfd-key""]",18.142.215.67,10.88.1.20,26/07/2022 15:41,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,stopped,SM,linux,FALSE,"[""cfd-kt3-key""]",54.255.89.67,10.88.1.8,14/11/2024 06:02,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,stopped,SUSS,linux,FALSE,"[""cfd-kt3-key""]",18.142.234.72,10.88.1.6,21/07/2024 08:26,arup-ear-cfd-dev-test,AWS
+ap-southeast-1,stopped,ANH,linux,FALSE,"[""cfd-kt3-key""]",54.254.151.38,10.88.1.10,28/04/2023 04:29,arup-ear-cfd-dev-test,AWS
+ap-east-1,stopped,HeadNode,linux,FALSE,"[""cfd-ny-key""]",18.166.188.196,10.0.1.140,05/08/2022 07:21,arup-ear-hk-cfd-prod,AWS
+ap-east-1,stopped,awcdfgraphics,linux,FALSE,"[""ear-hk-cfd-key""]",18.162.73.159,10.0.1.101,04/08/2022 15:33,arup-ear-hk-cfd-prod,AWS
+ap-east-1,running,WebCNMPServerProd,windows,FALSE,"[""WebCNMPKey2""]",16.163.54.111,172.31.44.25,11/08/2022 09:36,arup-ear-epd-cnmp-dev-test,AWS
+ap-east-1,running,WebCNMPServerDev,windows,FALSE,"[""webcnmpprodkeypair""]",18.167.243.150,172.31.42.227,26/09/2022 03:41,arup-ear-epd-cnmp-dev-test,AWS
+eu-central-1,stopped,HeadNode-gCUB2.0-eucentral1b,linux,FALSE,"[""cfd-jg-key""]",3.64.103.199,10.0.2.121,12/01/2025 03:25,arup-eur-germany-cfd-prod,AWS
+eu-central-1,running,HeadNode-JNB05,linux,FALSE,"[""cfd-RH-key""]",18.196.243.92,10.0.2.21,15/10/2024 15:24,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-gCUB2.0-eucentral1c,linux,FALSE,"[""cfd-jg-key""]",18.157.75.110,10.0.3.172,12/01/2025 03:25,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-EQX-FR12,linux,FALSE,"[""cfd-RH-key""]",3.74.104.114,10.0.2.222,26/06/2024 15:56,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-MDR-BOD-eucentral1b,linux,FALSE,"[""germany-cfd-key""]",63.176.16.149,10.0.2.241,15/11/2024 04:37,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-MDRCAMPUS,linux,FALSE,"[""cfd-RH-key""]",3.67.28.235,10.0.2.70,28/06/2024 08:32,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-FRA3,linux,FALSE,"[""cfd-RH-key""]",18.197.185.241,10.0.2.205,29/05/2024 17:54,arup-eur-germany-cfd-prod,AWS
+eu-central-1,running,HeadNode-MDR-BOD-eucentral1c,linux,FALSE,"[""cfd-jg-key""]",18.158.81.125,10.0.3.136,19/01/2025 11:54,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-gCUB2.0-eucentral1a,linux,FALSE,"[""cfd-jg-key""]",3.77.206.141,10.0.1.100,12/01/2025 03:25,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-JNB08,linux,FALSE,"[""cfd-RH-key""]",3.75.158.79,10.0.2.161,28/07/2024 23:02,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-KUL073-074-075,linux,FALSE,"[""cfd-jg-key""]",3.76.167.3,10.0.2.144,29/10/2024 11:19,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-ELE,linux,FALSE,"[""cfd-RH-key""]",3.124.175.220,10.0.2.92,21/10/2024 10:06,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-AM6P5,linux,FALSE,"[""cfd-RH-key""]",18.158.140.46,10.0.2.62,30/07/2024 23:11,arup-eur-germany-cfd-prod,AWS
+eu-central-1,stopped,HeadNode-EAB-SHEZ,linux,FALSE,"[""cfd-RH-key""]",3.79.133.227,10.0.2.147,27/11/2024 17:12,arup-eur-germany-cfd-prod,AWS
+eu-west-1,running,inpire-prod,linux,FALSE,"[""inspire-prod""]",54.154.64.88,10.0.1.197,13/10/2022 08:20,arup-ukimea-inspire-prod,AWS
+eu-west-1,running,inspire-stage,linux,FALSE,"[""inspire-stage""]",34.244.15.187,10.0.1.238,10/10/2022 20:23,arup-ukimea-inspire-prod,AWS
+ap-east-1,running,JesusChrist_backend,linux,FALSE,"[""cdp""]",43.198.65.16,10.0.1.207,09/06/2023 08:26,arup-ear-transport-cdp-dev-test,AWS
+ap-east-1,running,JesusChrist_gov_frontend,linux,FALSE,"[""cdp""]",18.163.243.75,10.0.1.242,17/06/2023 04:21,arup-ear-transport-cdp-dev-test,AWS
+ap-east-1,running,jesus,linux,FALSE,"[""cdp""]",16.162.246.191,10.0.1.164,12/09/2023 02:47,arup-ear-transport-cdp-dev-test,AWS
+ap-east-1,running,JesusChrist_external_front,linux,FALSE,"[""cdp""]",18.162.202.230,10.0.1.81,16/06/2023 10:11,arup-ear-transport-cdp-dev-test,AWS
+eu-west-2,running,Floodlight-dev-env,linux,FALSE,"[""floodlight-pem""]",35.179.144.99,172.31.7.79,05/02/2025 20:16,arup-ukimea-dsa-floodlight-dev-test,AWS
+ap-east-1,stopped,ea-carbonemissions,linux,TRUE,"[""SECHost SSH Key""]",16.162.12.162,10.146.42.20,20/01/2023 03:40,arup-ear-carbonemissions-dev-test,AWS
+ap-east-1,running,carbon,linux,FALSE,"[""mycarbon""]",18.166.130.45,10.146.42.29,04/10/2024 01:56,arup-ear-carbonemissions-dev-test,AWS
+us-east-2,running,weathershift_instance,linux,FALSE,"[""ws_kp""]",18.118.210.95,172.31.1.132,11/03/2023 11:44,arup-amx-weathershift-prod,AWS
+us-east-2,running,dev_weathershift_instance,linux,FALSE,"[""dev_ws_kp""]",18.222.205.98,172.31.28.177,16/10/2023 18:51,arup-amx-weathershift-prod,AWS
+us-east-2,running,Argos_Instance,linux,FALSE,"[""ws_kp""]",13.59.183.223,172.31.3.217,14/03/2023 02:47,arup-amx-weathershift-prod,AWS
+eu-central-1,stopped,stresstest-dev,linux,FALSE,"[""stresstest-dev-tom""]",18.153.236.21,172.17.8.79,04/03/2024 09:28,arup-eur-trauntwin-dev-test,AWS
+ap-east-1,running,lmpit_v2,linux,FALSE,"[""SECHost SSH Key""]",18.166.199.107,172.31.11.16,16/07/2024 03:56,arup-ear-lmpit-prod,AWS
+ap-southeast-2,running,uncertainty-surrogate-ec2-01,linux,FALSE,"[""uncertainty-surrogate-ec2-01-key""]",13.237.54.61,172.31.10.2,05/02/2024 19:43,arup-ukimea-uncertainty-sur-dev,AWS
+us-east-1,running,dstrm-ingest3,linux,FALSE,"[""vdot_mh1""]",3.239.172.106,10.0.1.42,03/05/2024 22:20,arup-amx-vdot-shared-dev,AWS
+us-east-1,running,vdot-bastion,linux,FALSE,"[""vdot-bastion""]",18.210.154.196,10.0.3.163,11/11/2024 12:13,arup-amx-vdot-shared-dev,AWS
+us-east-1,running,Rules Engine,linux,FALSE,"[""SwRI key""]",34.201.55.149,10.0.3.191,12/06/2024 19:55,arup-amx-vdot-shared-dev,AWS
+ap-east-1,running,EPD_VM,linux,FALSE,"[""EPDAI2""]",43.198.8.225,10.0.14.198,26/08/2024 07:17,arup-ear-noise-ai-app-prod,AWS
+ap-east-1,stopped,DEMO-ENVISAGE-SA,linux,FALSE,"[""DEV-AIIB-ESP""]",43.199.48.196,10.0.3.155,26/11/2024 20:07,arup-ear-aiib-dev-test,AWS
+ap-east-1,stopped,DEV-AIIB-ESP,linux,FALSE,"[""DEV-AIIB-ESP""]",43.198.130.224,10.0.3.221,28/08/2024 09:40,arup-ear-aiib-dev-test,AWS
+ap-east-1,running,STAGING-AIIB-ESP,linux,FALSE,"[""STAGING-AIIB-ESP""]",18.167.216.189,10.0.2.218,16/09/2024 02:16,arup-ear-aiib-dev-test,AWS
+ca-central-1,stopped,oncorr-dataroom-ai-server-02,linux,FALSE,"[""oncorr-dataroom-ai-key-01""]",3.96.243.29,10.0.2.159,12/09/2024 16:54,arup-amx-oncorr-ai-dev,AWS
+ca-central-1,stopped,oncorr-dataroom-windows-01,windows,FALSE,"[""oncorr-dataroom-ai-key-01""]",3.96.29.42,10.0.2.58,26/11/2024 16:39,arup-amx-oncorr-ai-dev,AWS
